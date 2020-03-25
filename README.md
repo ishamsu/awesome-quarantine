@@ -8,6 +8,9 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 
 ---
 
+> *Whats new?* 
+[*Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***. ](#SPARK%20AR%20Online%20Workshop)<br>
+ 
 
 This is a list of useful free resources, softwares and other offering for those who are quarantine at home (*developers, students & for everyone*)
 You can help by adding more contents by a **Pulll request**. Check the **Contribution Guidline** before contributing
@@ -19,6 +22,7 @@ Table of Contents
 - [Education](#Education)
 - [Software Packs](#Software%20Packs)
 - [Online Hackathon](#Online%20Hackathon)
+- [Online Events](#Online%20Events)
 - [Commuinty for Discussion](#Community%20for%20Discussion)
 
 Movies
@@ -264,6 +268,34 @@ Omidyar Network India today announced a call for proposals for rapid response fu
 
 Register <a href="https://www.omidyarnetwork.in/blog/omidyar-network-india-announces-rapid-response-funding-for-covid-19-commits-rs-7-5-crore-us-1-million-towards-solutions-focussed-on-next-half-billion" target="_blank">Here</a>
 <hr>
+
+Online Events
+--------
+
+#### SPARK AR Online Workshop
+
+<img src="https://images.typeform.com/images/87f2JWSu8GyU/image/default" width="200">
+
+*Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***. 
+
+Students/Faculty/Professionals who are passionate and keen to understand the potential of AR and are interested in working with SPARK AR can apply.
+
+
+Register <a href="https://svlabs.typeform.com/to/gw1tNj" target="_blank">Here</a>
+
+<hr>
+
+#### SPARK AR Online Workshop
+
+<img src="https://community.makergram.com/assets/uploads/files/1584960943116-photo_2020-03-23_16-22-32.jpg" width="200">
+
+Mamta Kumari [Co-Founder PrepBytes, Former SDE Amazon, Samsung] will guide you on how to prepare for coding interviews & SWITCH to Product companies as Software Developer.
+**Date & Time: 28th March 2020, 09:00PM IST**
+
+
+Register <a href="https://m.facebook.com/story.php?story_fbid=1076336636080255&id=502511680129423" target="_blank">Here</a>
+<hr>
+
 
 Community for Discussion
 --------
