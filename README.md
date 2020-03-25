@@ -285,7 +285,7 @@ Register <a href="https://svlabs.typeform.com/to/gw1tNj" target="_blank">Here</a
 
 <hr>
 
-#### SPARK AR Online Workshop
+#### Webinar: How to switch for Software Developer role in Product based companies?
 
 <img src="https://community.makergram.com/assets/uploads/files/1584960943116-photo_2020-03-23_16-22-32.jpg" width="200">
 
