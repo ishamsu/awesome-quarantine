@@ -3,7 +3,7 @@
 Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =======================
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishamsu/awesome-quarantine/graphs/commit-activity) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]() [![GitHub contributors](https://img.shields.io/github/contributors/ishamsu/awesome-quarantine.svg)](https://github.com/ishamsu/awesome-quarantine/graphs/contributors)  
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishamsu/awesome-quarantine/graphs/commit-activity) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishamsu/awesome-quarantine/pulls) [![GitHub contributors](https://img.shields.io/github/contributors/ishamsu/awesome-quarantine.svg)](https://github.com/ishamsu/awesome-quarantine/graphs/contributors)  
 [![GitHub forks](https://img.shields.io/github/forks/ishamsu/awesome-quarantine.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/ishamsu/awesome-quarantine/network/members) [![GitHub stars](https://img.shields.io/github/stars/ishamsu/awesome-quarantine.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ishamsu/awesome-quarantine) [![GitHub watchers](https://img.shields.io/github/watchers/ishamsu/awesome-quarantine.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/ishamsu/awesome-quarantine)
 
 ---
