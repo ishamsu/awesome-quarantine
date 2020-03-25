@@ -3,6 +3,7 @@
 Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =======================
 
+---
 
 
 This is a list of useful free resources, softwares and other offering for those who are quarantine at home (*developers, students & for everyone*)
@@ -19,7 +20,6 @@ Table of Contents
 
 Movies
 --------
-<hr>
 
 #### Gary Hustwti's movies
 
@@ -27,6 +27,7 @@ Filmmaker Gary Hustwit is streaming his documentaries free worldwide during the 
 
 Visit <a href="https://www.ohyouprettythings.com/free" target="_blank">Here</a>
 
+<hr>
 
 #### Amazon Prime Video
 
@@ -35,6 +36,8 @@ Visit <a href="https://www.ohyouprettythings.com/free" target="_blank">Here</a>
 You get the most bang for your metaphorical buck with Amazon Prime. The **free trial is 30 days**, but not only do you benefit from streaming TV shows and movies, you also get musics too.
 
 Visit <a href="https://www.primevideo.com/" target="_blank">Amazon Prime Video</a>
+
+<hr>
 
 #### Crunchyroll
 
@@ -49,16 +52,20 @@ Visit <a href="https://www.crunchyroll.com/en-gb/freetrial" target="_blank">crun
 
 Books
 --------
-<hr>
 
 #### Free Audiobooks
 A telegram channel for free Audiobooks
 
 Visit <a href="https://t.me/Audiobookclassic" target="_blank">Audiobook</a>
+
+<hr>
+
 #### Free Ebooks
 A telegram channel for free Ebooks
 
 Visit <a href="https://t.me/bookwormET" target="_blank">bookwormET</a>
+
+<hr>
 
 #### Free Resources on MUSE During COVID-19
 
@@ -67,6 +74,8 @@ Visit <a href="https://t.me/bookwormET" target="_blank">bookwormET</a>
 In response to the challenges created by the global public health crisis of COVID-19, Project MUSE is pleased to support its participating publishers in making scholarly content temporarily available for free on their platform.
 
 Visit <a href="https://about.muse.jhu.edu/resources/freeresourcescovid19/#" target="_blank">Project MUSE</a>
+
+<hr>
 
 #### Audible stories
 
@@ -80,7 +89,7 @@ Visit <a href="https://stories.audible.com/start-listen" target="_blank">Audible
 
 Education
 --------
----
+
 #### Unity Learn Premium
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" width="200">
@@ -88,6 +97,8 @@ Education
 During the COVID-19 crisis, Unity supporting the community with complimentary access to Unity Learn Premium for three months **(March 19 through June 20)**. Get exclusive access to Unity experts, live interactive sessions, on-demand learning resources, and more.
 
 Visit <a href="https://unity.com/products/learn-premium" target="_blank">Unity learn-premium</a>
+
+<hr>
 
 #### Coursera for Campus
 
@@ -107,6 +118,8 @@ Coursera for Campus will be available globally at no cost to any university impa
 
 Visit <a href="https://www.coursera.org/coronavirus/?utm_campaign=website&utm_content=c4cv-blog&utm_medium=coursera&utm_source=blog#form" target="_blank">Coursera for Campus</a>
 
+<hr>
+
 #### Linkedin
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="100">
@@ -120,6 +133,8 @@ The company is also using its powerful platform to share news more broadly, help
 
 Visit <a href="https://www.linkedin.com/learning/paths/remote-working-setting-yourself-and-your-teams-up-for-success" target="_blank">Linkedin learning</a>
 
+<hr>
+
 #### Open and free content on JSTOR and Artstor
 
 <img src="https://www.jstor.org/assets/global_20200323T1729/build/images/jstor-logo.png" width="80">
@@ -131,7 +146,6 @@ Visit <a href="https://about.jstor.org/oa-and-free/" target="_blank">Here</a>
 
 Software Packs
 --------
-<hr>
 
 #### Adobe creative cloud for students
 
@@ -146,6 +160,8 @@ To be eligible for this access, your school or college must be a current custome
 
 Visit <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4WsTc3KjN4xJpPpf5AwKlwJUN1BaMUU0S0I3MDlQUk03MENXMlZCNkcwWS4u" target="_blank">Adobe for students</a>
 
+<hr>
+
 #### DownDog yoga app
 
 <img src="https://lh3.googleusercontent.com/5SJjujN7AlLUX7pkm9PLhwAzItMiJJl04Ix-BkhxsGfIsxBvsUi1CnwIKD7un2frjgg" width="200">
@@ -154,6 +170,8 @@ Due to the current outbreak, many people are avoiding gathering in large groups,
 So that anyone who wants to practice at home can do so, they are making all of their apps - Down Dog, Yoga for Beginners, HIIT, Barre, and 7 Minute Workout - **completely free until April 1st.**
 
 Download <a href="https://www.downdogapp.com" target="_blank">Downdogapp</a>
+
+<hr>
 
 #### Affinity
 
@@ -172,7 +190,7 @@ Download <a href="https://affinity.serif.com/en-us/supporting-the-creative-commu
 
 Online Hackathon
 --------
----
+
 #### Coronathon
 
 <img src="https://coronathon.in/img/corona.png" width="200">
@@ -192,6 +210,8 @@ Join 1000+ other people from India's tech, business and healthcare community and
 
 Visit <a href="https://coronathon.in" target="_blank">Coronathon</a>
 
+<hr>
+
 #### CODE-VID 19
 
 <img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-0/p526x296/90347859_2770654082970555_3740093929794568192_o.jpg?_nc_cat=106&_nc_sid=8bfeb9&_nc_oc=AQnoapSlROMvhR_a22z_elJmuiJo60sLu5nBxIzrYz8_vCuHCduNk93GSIAnL3UKK3heSAI-UJjgxhPS8v5uyqSR&_nc_ht=scontent.fcok1-1.fna&_nc_tp=6&oh=ae2768864963ca178310b382c68a2ffe&oe=5E9E99F3" width="200">
@@ -199,6 +219,8 @@ Visit <a href="https://coronathon.in" target="_blank">Coronathon</a>
 Kerala Police Cyberdome is conducting Online Hackathon “CODE-VID-19” to find IT based innovative solutions that can help Police in the fight against COVID-19. Inviting tech-community across India to come forward and contribute to this mission. Showcase your Technical skills to Stop-Prevent-Contain the Pandemic. CODE-VID 19 envisages to find technology based innovative solutions for the Police to effectively contain corona virus for the benefit of society. **The last date of submission of your idea and technical solutions is 29-03-2020.** The best idea will be suitably rewarded.
 
 Register <a href="https://docs.google.com/forms/d/e/1FAIpQLScxfkQ6RkqrkZBEcoP6vhMifOTbtQwYXPArEHWiqf8ponq4AA/viewform?usp=send_form" target="_blank">Here</a>
+
+<hr>
 
 #### GitHub Actions hackathon
 
@@ -215,6 +237,8 @@ This four-week hackathon challenges the community to create original GitHub Acti
 
 Visit <a href="https://githubhackathon.com" target="_blank">GitHub Actions Hackathon</a>
 
+<hr>
+
 #### MyGov
 
 <img src="https://community.makergram.com/assets/uploads/files/1584517574611-mygov15844310141-1536x512.jpg" width="500">
@@ -227,6 +251,8 @@ In order to involve the community in the fight against the Virus, we would want 
 
 Register <a href="https://innovate.mygov.in/covid19/" target="_blank">Here</a>
 
+<hr>
+
 #### Omidyar Network Rapid Response Funding for Covid-19
 
 <img src="https://www.omidyarnetwork.in/wp-content/uploads/2020/03/RRF-blog.jpg" width="300">
@@ -238,7 +264,7 @@ Register <a href="https://www.omidyarnetwork.in/blog/omidyar-network-india-annou
 
 Community for Discussion
 --------
----
+
 #### MakerGram
 
 <img src="https://community.makergram.com/assets/uploads/system/site-logo.png?v=1gi0rdoivqv" width="200">
@@ -247,6 +273,8 @@ A community made by makers and for makers!
 A great place where you can think, brainstorm, share, discuss and transform your ideas into the real stuff.
 
 Visit <a href="https://community.makergram.com" target="_blank">MakerGram</a>
+
+<hr>
 
 #### TinkerHub
 
