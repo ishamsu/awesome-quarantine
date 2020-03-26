@@ -7,10 +7,11 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=This+is+a+curated+list+of+free+and+useful+resources%2C+software+and+other+offerings+for+those+who+are+quarantined+at+home+%F0%9F%A6%A0%F0%9F%94%93%28developers%2C+students+%26+for+everyone%29%E2%9A%A1%EF%B8%8F%0D%0A%23quarantinelife+%23breakthechain+%23developers+%23students+%23teachers&url=http%3A%2F%2Fgithub.com/ishamsu/awesome-quarantine)
 ---
 
-> *Whats new?* <br><br>
+> *Whats new?* <br>
+>[*Internshala announces free access to its online training programs for the students of Kerala, Jammu & Kashmir, and Ladakh till 31st March, in view of Coronavirus situation.*](https://trainings.internshala.com/fight-coronavirus)<br><br>
 [*Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***. ](https://svlabs.typeform.com/to/gw1tNj)<br><br>
 >[*Blockchain Webinar | Zubi | Tezos India has been postponed to **27th March 2020, at 8.00 pm IST** - Apply here*](https://docs.google.com/forms/d/e/1FAIpQLSeYPS2cCWur2Y47Tq0MB0O8-GSzM4mWj_w69lRkvC-Ygj-RyQ/viewform)<br><br>
->[*Read How to host a Zoom meeting here*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f)
+>[*Read How to host a Zoom meeting (click here)*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f)
  
 
 This is a curated list of free and useful resources, software and other offerings for those who are quarantined at home 🦠🔓(developers, students & for everyone) ⚡️
@@ -98,6 +99,18 @@ Visit <a href="https://stories.audible.com/start-listen" target="_blank">Audible
 
 Education
 --------
+
+#### Internshala
+
+<img src="https://trainings.internshala.com/static/images/corona.png" width="300">
+
+To limit the spread of Coronavirus, the governments in **Kerala, Jammu & Kashmir, and Ladakh** have announced that schools and colleges in the state and the union territories will remain shut till 31st March or as decided and communicated by respective governments from time to time. To minimize the impact of this on the affected students’ learning, Internshala will be providing **free access to its e-learning platform, Internshala Trainings, to the college students in the above mentioned regions till 31st March.** The students can learn a number of skills in programming, data science, business, design, creative writing etc. on Internshala Trainings through its short duration online training programs.
+
+Internshala has announced its 2nd Coronavirus initiative to provide free training to the children of healthcare workers. Visit this link for details.
+
+For more deails visit <a href="https://trainings.internshala.com/fight-coronavirus" target="_blank">this link</a>
+
+<hr>
 
 #### Unity Learn Premium
 
