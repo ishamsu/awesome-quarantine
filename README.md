@@ -8,7 +8,7 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 ---
 
 > *Whats new?* 
-[*Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***. ](#SPARK%20AR%20Online%20Workshop)<br>
+[*Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***. ](https://svlabs.typeform.com/to/gw1tNj)<br>
  
 
 This is a list of useful free resources, softwares and other offering for those who are quarantine at home (*developers, students & for everyone*)
