@@ -9,12 +9,12 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 
 > *Whats new?* <br>
 [*Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***. ](https://svlabs.typeform.com/to/gw1tNj)<br>
->[*Blockchain Webinar | Zubi | Tezos India has been postponed to **27th March 2020, at 8.00 pm IST** - Apply here*](https://docs.google.com/forms/d/e/1FAIpQLSeYPS2cCWur2Y47Tq0MB0O8-GSzM4mWj_w69lRkvC-Ygj-RyQ/viewform)<br>
+>[*Blockchain Webinar | Zubi | Tezos India has been postponed to **27th March 2020, at 8.00 pm IST** - Apply here*](https://docs.google.com/forms/d/e/1FAIpQLSeYPS2cCWur2Y47Tq0MB0O8-GSzM4mWj_w69lRkvC-Ygj-RyQ/viewform)<br><br>
 >[*Read How to host a Zoom meeting here*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f)
  
 
 This is a list of useful free resources, softwares and other offering for those who are quarantine at home (*developers, students & for everyone*)
-You can help by adding more contents by a **Pulll request**. Check the [**Contribution Guidline**](https://github.com/ishamsu/awesome-quarantine/blob/master/contributing.md) before contributing
+You can help by adding more contents by a **Pulll request**. Check the [**Contribution Guideline**](https://github.com/ishamsu/awesome-quarantine/blob/master/contributing.md) before contributing
 
 Table of Contents
 -----------------
@@ -204,6 +204,24 @@ Video messaging platform Loom announced that it is removing recording limits on 
 Additionally, the company announced that **Loom Pro is now free in perpetuity for students and teachers who are using Loom for classroom work**.
 
 Visit <a href="https://www.loom.com/" target="_blank">Loom</a>
+<hr>
+
+#### Slack
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" width="200">
+
+Slack is a meeting space, water-cooler, bulletin board, and phone-tree for your whole organizing team. It’s a great place to coordinate and collaborate, and a fun place to get to know your fellow organizers and activists, even when you can’t all be in the same room at the same time. It’s a tool that you can use on your computer and your phone to stay in touch with your team, and keep everyone up to date with the important news and goings-on.
+
+Visit <a href="https://slack.com/intl/en-in/" target="_blank">Slack</a>
+<hr>
+
+#### Discord
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Discord-Logo.png" width="200">
+
+Discord is the easiest way to communicate over voice, video, and text, whether you’re part of a school club, a nightly gaming group, a worldwide art community, or just a handful of friends that want to hang out.
+
+Visit <a href="https://discordapp.com/" target="_blank">Discord</a>
 <hr>
 
 
