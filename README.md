@@ -197,13 +197,13 @@ Visit <a href="https://zoom.us/" target="_blank">Zoom</a>
 
 #### Loom
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Zoom_Communications_Logo.svg" width="200">
+<img src="https://assets-global.website-files.com/5c991ff59b4c11294d51a8bd/5c991ff59b4c11a79551a91d_loom-logo.svg" width="200">
 
-Video messaging platform Loom announced that it is removing recording limits on its free plan (formerly capped at 25), cutting the price of Loom Pro from $10/month to $5 a month, and extending its free trial of Loom Pro from 14 to 30 days. These offers are valid until July 1.
+Video messaging platform Loom announced that it is removing recording limits on its free plan (formerly capped at 25), cutting the price of Loom Pro from $10/month to $5 a month, and extending its free trial of **Loom Pro from 14 to 30 days.** These offers are valid until July 1.
 
-Additionally, the company announced that Loom Pro is now free in perpetuity for students and teachers who are using Loom for classroom work.
+Additionally, the company announced that **Loom Pro is now free in perpetuity for students and teachers who are using Loom for classroom work**.
 
-Visit <a href="https://zoom.us/" target="_blank">Zoom</a>
+Visit <a href="https://www.loom.com/" target="_blank">Loom</a>
 <hr>
 
 
