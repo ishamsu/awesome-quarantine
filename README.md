@@ -7,10 +7,10 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=This+is+a+curated+list+of+useful+free+resources%2C+softwares+and+other+offering+for+those+who+are+quarantine+at+home+%28developers%2C+students+%26+for+everyone%29%F0%9F%A6%A0%F0%9F%94%AA%0D%0AYou+can+help+by+adding+more+contents+by+a+Pull+request.+Check+the+Contribution+Guideline+before+contributing:&url=http%3A%2F%2Fgithub.com/ishamsu/awesome-quarantine)
 ---
 
-> *Whats new?* 
+> *Whats new?* <br>
 [*Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***. ](https://svlabs.typeform.com/to/gw1tNj)<br>
-
->*Postponed* - [*Blockchain Webinar | Zubi | Tezos India has been postponed to **27th March 2020, at 8.00 pm IST** - Apply here*](https://docs.google.com/forms/d/e/1FAIpQLSeYPS2cCWur2Y47Tq0MB0O8-GSzM4mWj_w69lRkvC-Ygj-RyQ/viewform)
+>[*Blockchain Webinar | Zubi | Tezos India has been postponed to **27th March 2020, at 8.00 pm IST** - Apply here*](https://docs.google.com/forms/d/e/1FAIpQLSeYPS2cCWur2Y47Tq0MB0O8-GSzM4mWj_w69lRkvC-Ygj-RyQ/viewform)<br>
+>[*Read How to host a Zoom meeting here*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f)
  
 
 This is a list of useful free resources, softwares and other offering for those who are quarantine at home (*developers, students & for everyone*)
@@ -21,10 +21,11 @@ Table of Contents
 - [Movies](#Movies)
 - [Books](#Books)
 - [Education](#Education)
-- [Software Packs](#Software%20Packs)
-- [Online Hackathon](#Online%20Hackathon)
-- [Online Events](#Online%20Events)
-- [Commuinty for Discussion](#Community%20for%20Discussion)
+- [Collaboration Tools](#Collaboration-tools)
+- [Software Packs](#Software-20Packs)
+- [Online Hackathon](#Online-Hackathon)
+- [Online Events](#Online-Events)
+- [Commuinty for Discussion](#Community-for-Discussion)
 
 Movies
 --------
@@ -152,7 +153,61 @@ During the current COVID-19 crisis, JSTOR and their participating publishers are
 Visit <a href="https://about.jstor.org/oa-and-free/" target="_blank">Here</a>
 <hr>
 
-Software Packs
+Collaboration-tools
+--------
+
+#### Free Webex Offer by CISCO
+
+<img src="https://help.webex.com/images/cisco-logo-blue.png" width="200">
+
+Effective immediately, CISCO expanded the capabilities of its free Webex offer in all countries where it is available, not only those impacted by COVID-19.
+
+Here are the additional features,
+
+* Unlimited usage (no time restrictions)
+
+* Supports up to 100 participants
+
+* Offers toll dial-in (in addition to existing VoIP capabilities).
+
+Visit <a href="https://www.webex.co.in/" target="_blank">Webex</a>
+<hr>
+
+#### Zoom
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Zoom_Communications_Logo.svg" width="200">
+
+Zoom offers a full-featured Basic Plan for free with unlimited meetings.
+
+* Basic plan - free
+* Host up to 100 participants
+* 40 mins limit on group meetings
+* Unlimited number of meetings
+* Mac, Windows, Linux, iOS and Android
+* Co-annotation on shared screen
+* Group messaging and presence
+* Instant or scheduled meetings
+
+**A participant does not require a Zoom account in order to join a meeting.They can just signup with the lnvitation link you send**
+
+*Here is guid on how to host a meeting on Zoom [**Read here**](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f)*
+
+Visit <a href="https://zoom.us/" target="_blank">Zoom</a>
+<hr>
+
+#### Loom
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Zoom_Communications_Logo.svg" width="200">
+
+Video messaging platform Loom announced that it is removing recording limits on its free plan (formerly capped at 25), cutting the price of Loom Pro from $10/month to $5 a month, and extending its free trial of Loom Pro from 14 to 30 days. These offers are valid until July 1.
+
+Additionally, the company announced that Loom Pro is now free in perpetuity for students and teachers who are using Loom for classroom work.
+
+Visit <a href="https://zoom.us/" target="_blank">Zoom</a>
+<hr>
+
+
+Software-Packs
 --------
 
 #### Adobe creative cloud for students
@@ -196,7 +251,7 @@ Download <a href="https://affinity.serif.com/en-us/supporting-the-creative-commu
 <hr>
 
 
-Online Hackathon
+Online-Hackathon
 --------
 
 #### Coronathon
@@ -270,7 +325,7 @@ Omidyar Network India today announced a call for proposals for rapid response fu
 Register <a href="https://www.omidyarnetwork.in/blog/omidyar-network-india-announces-rapid-response-funding-for-covid-19-commits-rs-7-5-crore-us-1-million-towards-solutions-focussed-on-next-half-billion" target="_blank">Here</a>
 <hr>
 
-Online Events
+Online-Events
 --------
 
 #### SPARK AR Online Workshop
@@ -308,7 +363,7 @@ Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYPS2cCWur2Y47Tq0MB0
 
 <hr>
 
-Community for Discussion
+Community-for-Discussion
 --------
 
 #### MakerGram
