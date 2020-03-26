@@ -4,7 +4,7 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 =======================
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishamsu/awesome-quarantine/graphs/commit-activity) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishamsu/awesome-quarantine/pulls) [![GitHub contributors](https://img.shields.io/github/contributors/ishamsu/awesome-quarantine.svg)](https://github.com/ishamsu/awesome-quarantine/graphs/contributors) [![GitHub forks](https://img.shields.io/github/forks/ishamsu/awesome-quarantine.svg)](https://github.com/ishamsu/awesome-quarantine/network/members) [![GitHub stars](https://img.shields.io/github/stars/ishamsu/awesome-quarantine.svg)](https://github.com/ishamsu/awesome-quarantine/stargazers) [![GitHub watchers](https://img.shields.io/github/watchers/ishamsu/awesome-quarantine.svg)](https://github.com/ishamsu/awesome-quarantine/watchers)
-[![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=This+is+a+curated+list+of+useful+free+resources%2C+softwares+and+other+offering+for+those+who+are+quarantine+at+home+%28developers%2C+students+%26+for+everyone%29%F0%9F%A6%A0%F0%9F%94%AA%0D%0AYou+can+help+by+adding+more+contents+by+a+Pull+request.+Check+the+Contribution+Guideline+before+contributing:&url=http%3A%2F%2Fgithub.com/ishamsu/awesome-quarantine)
+[![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=This+is+a+curated+list+of+useful+free+resources%2C+softwares+and+other+offering+for+those+who+are+quarantine+at+home+%28developers%2C+students+%26+for+everyone%29%F0%9F%A6%A0%F0%9F%94%AA%0D%0AYou+can+help+by+adding+more+contents+by+a+Pull+request.+Check+the+Contribution+Guideline+before+contributing&url=http%3A%2F%2Fgithub.com/ishamsu/awesome-quarantine)
 ---
 
 > *Whats new?* <br><br>
@@ -13,7 +13,7 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 >[*Read How to host a Zoom meeting here*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f)
  
 
-This is a list of useful free resources, softwares and other offering for those who are quarantine at home (*developers, students & for everyone*)
+This is a curated list of free and useful resources, software and other offerings for those who are quarantined at home 🦠🔓(developers, students & for everyone) ⚡️
 You can help by adding more contents by a **Pulll request**. Check the [**Contribution Guideline**](https://github.com/ishamsu/awesome-quarantine/blob/master/contributing.md) before contributing
 
 Table of Contents
@@ -190,7 +190,7 @@ Zoom offers a full-featured Basic Plan for free with unlimited meetings.
 
 **A participant does not require a Zoom account in order to join a meeting.They can just signup with the lnvitation link you send**
 
-*Here is guid on how to host a meeting on Zoom [**Read here**](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f)*
+*Here is guide on 'how to host a meeting on Zoom!' [**Read here**](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f)*
 
 Visit <a href="https://zoom.us/" target="_blank">Zoom</a>
 <hr>
