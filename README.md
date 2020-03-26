@@ -208,6 +208,18 @@ Zoom offers a full-featured Basic Plan for free with unlimited meetings.
 Visit <a href="https://zoom.us/" target="_blank">Zoom</a>
 <hr>
 
+#### Jitsi
+
+<img src="https://335wvf48o1332cksy23mw1pj-wpengine.netdna-ssl.com/wp-content/themes/jitsi/images/logo.png" width="200">
+
+**Multi-platform
+open-source video conferencing**
+
+At Jitsi, we believe every video chat should look and sound amazing, between **two people or 200**. Whether you want to build your own massively multi-user video conference client, or use ours, **all our tools are 100% free**, open source, and WebRTC compatible.
+
+Visit <a href="https://jitsi.org" target="_blank">Jitsi</a>
+<hr>
+
 #### Loom
 
 <img src="https://assets-global.website-files.com/5c991ff59b4c11294d51a8bd/5c991ff59b4c11a79551a91d_loom-logo.svg" width="200">
