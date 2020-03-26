@@ -9,6 +9,8 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 
 > *Whats new?* 
 [*Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***. ](https://svlabs.typeform.com/to/gw1tNj)<br>
+
+>*Postponed* - [*Blockchain Webinar | Zubi | Tezos India has been postponed to **27th March 2020, at 8.00 pm IST** - Apply soon*](https://docs.google.com/forms/d/e/1FAIpQLSeYPS2cCWur2Y47Tq0MB0O8-GSzM4mWj_w69lRkvC-Ygj-RyQ/viewform)
  
 
 This is a list of useful free resources, softwares and other offering for those who are quarantine at home (*developers, students & for everyone*)
@@ -295,6 +297,16 @@ Mamta Kumari [Co-Founder PrepBytes, Former SDE Amazon, Samsung] will guide you o
 Register <a href="https://m.facebook.com/story.php?story_fbid=1076336636080255&id=502511680129423" target="_blank">Here</a>
 <hr>
 
+#### Blockchain Webinar | Zubi | Tezos India
+
+<img src="" width="200">
+
+The webinar is organized in collaboration with Tezos India Foundation and is scheduled for **27th March 2020, at 8.00 pm IST.** Anyone can register for it, free of cost. 
+
+
+Register <a href="https://svlabs.typeform.com/to/gw1tNj" target="_blank">Here</a>
+
+<hr>
 
 Community for Discussion
 --------
