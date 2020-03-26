@@ -7,8 +7,8 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=This+is+a+curated+list+of+useful+free+resources%2C+softwares+and+other+offering+for+those+who+are+quarantine+at+home+%28developers%2C+students+%26+for+everyone%29%F0%9F%A6%A0%F0%9F%94%AA%0D%0AYou+can+help+by+adding+more+contents+by+a+Pull+request.+Check+the+Contribution+Guideline+before+contributing:&url=http%3A%2F%2Fgithub.com/ishamsu/awesome-quarantine)
 ---
 
-> *Whats new?* <br>
-[*Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***. ](https://svlabs.typeform.com/to/gw1tNj)<br>
+> *Whats new?* <br><br>
+[*Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***. ](https://svlabs.typeform.com/to/gw1tNj)<br><br>
 >[*Blockchain Webinar | Zubi | Tezos India has been postponed to **27th March 2020, at 8.00 pm IST** - Apply here*](https://docs.google.com/forms/d/e/1FAIpQLSeYPS2cCWur2Y47Tq0MB0O8-GSzM4mWj_w69lRkvC-Ygj-RyQ/viewform)<br><br>
 >[*Read How to host a Zoom meeting here*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f)
  
