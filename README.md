@@ -7,8 +7,8 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=This+is+a+curated+list+of+free+and+useful+resources%2C+software+and+other+offerings+for+those+who+are+quarantined+at+home+%F0%9F%A6%A0%F0%9F%94%93%28developers%2C+students+%26+for+everyone%29%E2%9A%A1%EF%B8%8F%0D%0A%23quarantinelife+%23breakthechain+%23developers+%23students+%23teachers&url=http%3A%2F%2Fgithub.com/ishamsu/awesome-quarantine)
 ---
 
-> *Whats new?* <br>
->[*Facebook, Microsoft partner with WHO for coronavirus hackathon*](https://twitter.com/DrTedros/status/1242798754165665792?s=20)<br>***Read here***<br>
+> ***Whats new?*** <br>
+>[*Facebook, Microsoft partner with WHO for coronavirus hackathon*](https://twitter.com/DrTedros/status/1242798754165665792?s=20) *Read here*<br><br>
 >[*Internshala announces free access to its online training programs for the students of Kerala, Jammu & Kashmir, and Ladakh till 31st March, in view of Coronavirus situation.*](https://trainings.internshala.com/fight-coronavirus)<br><br>
 [*Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***. ](https://svlabs.typeform.com/to/gw1tNj)<br><br>
 >[*Read How to host a Zoom meeting (click here)*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f)
