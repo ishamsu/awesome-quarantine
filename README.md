@@ -315,9 +315,7 @@ Hack Quarantine is a 3 week global, digital hackathon that aims to raise awarene
 *Powered by **GitHub** & **Hackathons UK***
 
 **March 23rd to April 12th**
-
- **Deadline: 9:00am PDT Mar 30, 2020**
-
+s
 Join <a href="https://hackquarantine.com/" target="_blank">Here</a>
 <hr>
 
