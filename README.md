@@ -306,6 +306,17 @@ Download <a href="https://affinity.serif.com/en-us/supporting-the-creative-commu
 Online-Hackathon
 --------
 
+#### STORM THE HACK
+
+<img src="https://storm-the-hack.now.sh/poster-full.png" width="300">
+
+The COVID-19 Global Hackathon is an opportunity for developers to build software solutions that drive social impact, with the aim of tackling some of the challenges related to the current coronavirus (COVID-19) pandemic.
+
+ **Deadline: 9:00am PDT Mar 30, 2020**
+
+Join the Storm <a href="https://storm-the-hack.now.sh" target="_blank">Here</a>
+<hr>
+
 #### Coronathon
 
 <img src="https://coronathon.in/img/corona.png" width="200">
