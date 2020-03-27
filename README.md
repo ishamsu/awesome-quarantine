@@ -8,9 +8,9 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 ---
 
 > *Whats new?* <br>
+>[*Facebook, Microsoft partner with WHO for coronavirus hackathon*](https://twitter.com/DrTedros/status/1242798754165665792?s=20)<br>***Read here***<br>
 >[*Internshala announces free access to its online training programs for the students of Kerala, Jammu & Kashmir, and Ladakh till 31st March, in view of Coronavirus situation.*](https://trainings.internshala.com/fight-coronavirus)<br><br>
 [*Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***. ](https://svlabs.typeform.com/to/gw1tNj)<br><br>
->[*Blockchain Webinar | Zubi | Tezos India has been postponed to **27th March 2020, at 8.00 pm IST** - Apply here*](https://docs.google.com/forms/d/e/1FAIpQLSeYPS2cCWur2Y47Tq0MB0O8-GSzM4mWj_w69lRkvC-Ygj-RyQ/viewform)<br><br>
 >[*Read How to host a Zoom meeting (click here)*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f)
  
 
@@ -305,6 +305,21 @@ Download <a href="https://affinity.serif.com/en-us/supporting-the-creative-commu
 
 Online-Hackathon
 --------
+
+#### Hack Quarantine
+
+<img src="https://pbs.twimg.com/card_img/1241894514647695360/sWLroLQo?format=jpg&name=small" width="300">
+
+Hack Quarantine is a 3 week global, digital hackathon that aims to raise awareness and build solutions for those affected by the COVID-19 pandemic.
+
+*Powered by **GitHub** & **Hackathons UK***
+
+**March 23rd to April 12th**
+
+ **Deadline: 9:00am PDT Mar 30, 2020**
+
+Join <a href="https://hackquarantine.com/" target="_blank">Here</a>
+<hr>
 
 #### STORM THE HACK
 
