@@ -328,6 +328,19 @@ Download <a href="https://affinity.serif.com/en-us/supporting-the-creative-commu
 Online-Hackathon
 --------
 
+#### Local Hack Day: Share 2020 in New Delhi
+
+<img src="https://localhackday.mlh.io/_next/static/images/mlh-logo-bc5cfd3a887013976863247e66c389a2.svg" width="100">
+
+Join us on **Apr 11th, 2020** for MLH's Local Hack Day: Share Day. Share Day is a global demo day focused on highlighting the achievements of your community. Over the course of 12 hours, attendees will put the finishing touches on their current projects and participate in a global project showcase.
+
+This is an event for all skill levels, from beginners to the most veteran developers. Workshop attendees will learn skills that they can apply in their projects, schoolwork, job, and beyond.
+
+*A Share Day hosted by **Microsoft Student Partner***
+
+Register<a href="https://localhackday.mlh.io/share/locations/3384" target="_blank"> Here</a>
+<hr>
+
 #### MOZILLA OPEN SOURCE SUPPORT AWARDS
 
 <img src="https://s3.amazonaws.com/fluxx-grants-io-production/config_documents/7219_3096256/moz-logo-bw-rgb.png?1490748917" width="300">
