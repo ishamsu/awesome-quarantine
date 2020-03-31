@@ -12,7 +12,7 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 >[*Kerala Startup Mission on behalf of Government of Kerala is calling for innovative ideas and solutions to defend and hunt down the Global Pandemic from the Avengers around us*](https://breakcorona.in/) *Read here*<br><br>
 >[*Internshala announces free access to its online training programs for the students of Kerala, Jammu & Kashmir, and Ladakh till 31st March, in view of Coronavirus situation.*](https://trainings.internshala.com/fight-coronavirus)<br><br>
 [*Mozilla has announced the creation of a COVID-19 Solutions Fund as part of the Mozilla Open Source Support Program (MOSS).Through this fund, they will provide awards of up to $50,000 USD each to open source technology projects which are responding to the COVID-19 pandemic in some way.***](https://mozilla.fluxx.io/apply/MOSS)<br><br>
->[*Read How to host a Zoom meeting (click here)*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f)
+>[*Read How to host a Zoom meeting*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f) *(Click here)*
  
 
 This is a curated list of free and useful resources, software and other offerings for those who are quarantined at home 🦠🔓(developers, students & for everyone) ⚡️
@@ -342,7 +342,7 @@ Apply<a href="https://mozilla.fluxx.io/apply/MOSS" target="_blank"> Now</a>
 
 #### Break Corona
 
-<img src="https://app.breakcorona.in/assets/img/logo.png" width="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCDmKgJix9OGZqxXO1YkK0c53I8WThT8m2OWFWe6NahrdgvTIF&usqp=CAU" width="300">
 
 **Idea & Product Solution**
 
