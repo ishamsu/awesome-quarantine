@@ -9,9 +9,9 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 ---
 
 > ***Whats new?*** <br>
->[*Facebook, Microsoft partner with WHO for coronavirus hackathon*](https://twitter.com/DrTedros/status/1242798754165665792?s=20) *Read here*<br><br>
+>[*Kerala Startup Mission on behalf of Government of Kerala is calling for innovative ideas and solutions to defend and hunt down the Global Pandemic from the Avengers around us*](https://breakcorona.in/) *Read here*<br><br>
 >[*Internshala announces free access to its online training programs for the students of Kerala, Jammu & Kashmir, and Ladakh till 31st March, in view of Coronavirus situation.*](https://trainings.internshala.com/fight-coronavirus)<br><br>
-[*Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***. ](https://svlabs.typeform.com/to/gw1tNj)<br><br>
+[*Mozilla has announced the creation of a COVID-19 Solutions Fund as part of the Mozilla Open Source Support Program (MOSS).Through this fund, they will provide awards of up to $50,000 USD each to open source technology projects which are responding to the COVID-19 pandemic in some way.***](https://mozilla.fluxx.io/apply/MOSS)<br><br>
 >[*Read How to host a Zoom meeting (click here)*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f)
  
 
@@ -100,6 +100,27 @@ Visit <a href="https://stories.audible.com/start-listen" target="_blank">Audible
 
 Education
 --------
+
+#### Udacity
+
+<img src="https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/themes/udacity_wp_1_8/images/Udacity_Logo_SVG_200x35.svg" width="300">
+
+Udacity’s Contribution to the COVID-19 Crisis: One Free Month Access to Nanodegree Programs
+**offering everyone one free month on one of 40 premium Nanodegree programs.**
+
+For more deails visit <a href="https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html" target="_blank">this link</a>
+
+<hr>
+
+#### Moz Academy
+
+<img src="https://pbs.twimg.com/card_img/1245017405560098817/KhdLx4pJ?format=jpg&name=small" width="300">
+
+Moz Academy courses are now available for free! Browse our course list, then use the promo **"wegotthis"** to sign up.
+
+For more deails visit <a href="https://moz.com/training" target="_blank">this link</a>
+
+<hr>
 
 #### Internshala
 
@@ -307,6 +328,52 @@ Download <a href="https://affinity.serif.com/en-us/supporting-the-creative-commu
 Online-Hackathon
 --------
 
+#### MOZILLA OPEN SOURCE SUPPORT AWARDS
+
+<img src="https://s3.amazonaws.com/fluxx-grants-io-production/config_documents/7219_3096256/moz-logo-bw-rgb.png?1490748917" width="300">
+
+Mozilla is announcing today the creation of a COVID-19 Solutions Fund as part of the Mozilla Open Source Support Program (MOSS). Through this fund, they will provide awards of up to $50,000 each to open source technology projects which are responding to the COVID-19 pandemic in some way.
+
+As part of the COVID-19 Solutions Fund, they will accept applications that are hardware (e.g., an open source ventilator), software (e.g., a platform that connects hospitals with people who have 3D printers who can print parts for that open source ventilator), as well as software that solves for secondary effects of COVID-19 (e.g., a browser plugin that combats COVID related misinformation).
+
+
+Apply<a href="https://mozilla.fluxx.io/apply/MOSS" target="_blank"> Now</a>
+<hr>
+
+#### Break Corona
+
+<img src="https://app.breakcorona.in/assets/img/logo.png" width="300">
+
+**Idea & Product Solution**
+
+When the adverse CoronaVirus is taking lives from various parts of the Globe, Kerala Startup Mission on behalf of Government of Kerala is calling for innovative ideas and solutions to defend and hunt down the Global Pandemic from the Avengers around us.
+
+Apply<a href="https://breakcorona.in/" target="_blank"> Now</a>
+<hr>
+
+
+#### Calling All Innovators -  IgniteX Accelerator
+
+<img src="https://images.squarespace-cdn.com/content/5e79e8f092b8f7283b2e47f1/1585334143053-JWOGIJLZTP1EK0X8T1F6/BV+Ignite+Final+Logo+2.png?content-type=image%2Fpng" width="300">
+
+Do you have a solution that can reduce the severity of the coronavirus outbreak, but need help commercializing and rapidly deploying? The Black & Veatch COVID-19 Response Accelerator is designed for growing companies looking to scale emerging solutions to save lives, help communities cope, and protect the economy.
+
+Apply<a href="https://www.bvignite.com/" target="_blank"> Here</a>
+<hr>
+
+#### Startup India - Challange
+
+<img src="https://api.startupindia.gov.in/sih/api/file/ams/banner/logo?fileName=3dbebfb8-3c97-4e98-a778-29a80fd44d14.jpg" width="300">
+
+The Challenge is open to all the Startups, Companies, Innovators etc. whose innovation can plug the gap between the demand and supply of essential medical items to fight the Covid-19 outbreak as well as an innovative tech for applications such as motion tracking, geofencing, fake news detection, etc.
+
+*Powered by **Startup India***
+
+**Apply before Wednesday, 15th April**
+
+Submit Solutions to combat Covid19<a href="https://www.startupindia.gov.in/content/sih/en/ams-application/challenge.html?applicationId=5e79126ee4b055bfaea9ef66" target="_blank"> Here</a>
+<hr>
+
 #### Hack Quarantine
 
 <img src="https://pbs.twimg.com/card_img/1241894514647695360/sWLroLQo?format=jpg&name=small" width="300">
@@ -316,7 +383,7 @@ Hack Quarantine is a 3 week global, digital hackathon that aims to raise awarene
 *Powered by **GitHub** & **Hackathons UK***
 
 **March 23rd to April 12th**
-s
+
 Join <a href="https://hackquarantine.com/" target="_blank">Here</a>
 <hr>
 
@@ -412,7 +479,6 @@ Online-Events
 *Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***. 
 
 Students/Faculty/Professionals who are passionate and keen to understand the potential of AR and are interested in working with SPARK AR can apply.
-
 
 Register <a href="https://svlabs.typeform.com/to/gw1tNj" target="_blank">Here</a>
 
