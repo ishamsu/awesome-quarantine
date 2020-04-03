@@ -13,7 +13,8 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 >[*Webinar on PCB Designing*](https://bit.ly/3dQW0wT) *on tomarrow (April 4, 2020 3 PM to 5 PM) - FREE*<br><br>
 >[*Automate the Boring Stuff, the best selling video course on learning Python is free until April 7.*](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) *FREE*<br><br>
 >[*Internshala announces free access to its online training programs for the students of Kerala, Jammu & Kashmir, and Ladakh till 31st March, in view of Coronavirus situation.*](https://trainings.internshala.com/fight-coronavirus)<br><br>
-[*Mozilla has announced the creation of a COVID-19 Solutions Fund as part of the Mozilla Open Source Support Program (MOSS).Through this fund, they will provide awards of up to $50,000 USD each to open source technology projects which are responding to the COVID-19 pandemic in some way.*](https://mozilla.fluxx.io/apply/MOSS)<br><br>
+>[*Machine Learning Starter Program - Analytics Vidhya*](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) *(Use coupon: LOCKDOWN) to get INR 4999 Rs. Discount)*<br><br>
+>[*Mozilla has announced the creation of a COVID-19 Solutions Fund as part of the Mozilla Open Source Support Program (MOSS).Through this fund, they will provide awards of up to $50,000 USD each to open source technology projects which are responding to the COVID-19 pandemic in some way.*](https://mozilla.fluxx.io/apply/MOSS)<br><br>
 >[*Read How to host a Zoom meeting*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f) *(Click here)*
  
 
@@ -102,6 +103,17 @@ Visit <a href="https://stories.audible.com/start-listen" target="_blank">Audible
 
 Education
 --------
+
+#### Machine Learning Startup Program - Analytics Vidhya 
+
+<img src="https://pbs.twimg.com/media/EUrhit8U4AUB0iW?format=jpg&name=small" width="400">
+
+Analytics Vidhya has made their Machine Learning Startup Program free till April 14th for everyone! This includes a course on machine learning, access to 2 hackathons, key talks from DataHack Summit by experts, and a free Machine Learning handbook!
+**(Use Coupon: LOCKDOWN) to get INR 4999 ($80) DISCOUNT**
+
+Click to <a href="https://courses.analyticsvidhya.com/bundles/machine-learning-starter-program" target="_blank">Redeem</a>
+
+<hr>
 
 #### Automate the Boring Stuff with Python Programming - Udemy
 
@@ -496,6 +508,22 @@ Register <a href="https://www.omidyarnetwork.in/blog/omidyar-network-india-annou
 
 Online-Events
 --------
+
+#### Webinar on PCB Designing
+
+<!-- <img src="https://images.typeform.com/images/87f2JWSu8GyU/image/default" width="200"> -->
+
+Hey Guys!
+Got bored by simply sitting during the quarantine??  We have something that can help you kill your boredom and help you learn:
+So, grab a cup of coffee and sit at your favourite spot, spend two hours with us and be the part of a Webinar on PCB designing conducted by Amrita Vishwa Vidyapeetham's chapter of Cisco thingQbator!
+
+**Time : 3 PM to 5 PM
+Date: April 4, 2020**
+
+Register <a href="https://bit.ly/3dQW0wT" target="_blank">Here</a>
+
+<hr>
+
 
 #### Rustacean Meetup
 
