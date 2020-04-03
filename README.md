@@ -10,8 +10,10 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 
 > ***Whats new?*** <br>
 >[*Kerala Startup Mission on behalf of Government of Kerala is calling for innovative ideas and solutions to defend and hunt down the Global Pandemic from the Avengers around us*](https://breakcorona.in/) *Read here*<br><br>
->[*Internshala announces free access to its online training programs for the students of Kerala, Jammu & Kashmir, and Ladakh till 31st March, in view of Coronavirus situation.*](https://trainings.internshala.com/fight-coronavirus)<br><br>
-[*Mozilla has announced the creation of a COVID-19 Solutions Fund as part of the Mozilla Open Source Support Program (MOSS).Through this fund, they will provide awards of up to $50,000 USD each to open source technology projects which are responding to the COVID-19 pandemic in some way.***](https://mozilla.fluxx.io/apply/MOSS)<br><br>
+>[*Webinar on PCB Designing*](https://bit.ly/3dQW0wT) *on tomarrow (April 4, 2020 3 PM to 5 PM) - FREE*<br><br>
+>[*Automate the Boring Stuff, the best selling video course on learning Python is free until April 7.*](https://www.udemy.com/course/automate/?couponCode=APR2020FREE)<br><br>
+>[*Internshala announces free access to its online training programs for the students of Kerala, Jammu & Kashmir, and Ladakh till 31st March, in view of Coronavirus situation.*](https://trainings.internshala.com/fight-coronavirus) *FREE*<br><br>
+[*Mozilla has announced the creation of a COVID-19 Solutions Fund as part of the Mozilla Open Source Support Program (MOSS).Through this fund, they will provide awards of up to $50,000 USD each to open source technology projects which are responding to the COVID-19 pandemic in some way.*](https://mozilla.fluxx.io/apply/MOSS)<br><br>
 >[*Read How to host a Zoom meeting*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f) *(Click here)*
  
 
@@ -100,6 +102,16 @@ Visit <a href="https://stories.audible.com/start-listen" target="_blank">Audible
 
 Education
 --------
+
+#### Automate the Boring Stuff with Python Programming - Udemy
+
+<img src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" width="300">
+
+Automate the Boring Stuff, the best selling video course on learning Python is **free until April 7**.
+
+Click to <a href="https://www.udemy.com/course/automate/?couponCode=APR2020FREE" target="_blank">Redeem</a>
+
+<hr>
 
 #### Udacity
 
@@ -484,6 +496,26 @@ Register <a href="https://www.omidyarnetwork.in/blog/omidyar-network-india-annou
 
 Online-Events
 --------
+
+#### Rustacean Meetup
+
+<img src="https://pbs.twimg.com/card_img/1246032403803455488/vzz8kU-P?format=jpg&name=small" width="400">
+
+Join us this Sunday to learn how you can use rust-lang to speed up your python code!
+
+We will be discussing a lot, but most specifically about how PyO3 can help you integrate rust easily into your Python code.
+
+**Time: 4:30PM, 5th April 2020**
+
+Agenda
+• Introduction
+• Live coding session
+• Q&A
+
+Register <a href="https://community.mozilla.org/events/rustacean-meetup/
+" target="_blank">Here</a>
+
+<hr>
 
 #### SPARK AR Online Workshop
 
