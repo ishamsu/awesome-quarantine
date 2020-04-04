@@ -10,7 +10,7 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 
 > ***Whats new?*** <br>
 >[*Kerala Startup Mission on behalf of Government of Kerala is calling for innovative ideas and solutions to defend and hunt down the Global Pandemic from the Avengers around us*](https://breakcorona.in/) *Read here*<br><br>
->[*Webinar on PCB Designing*](https://bit.ly/3dQW0wT) *on tomarrow (April 4, 2020 3 PM to 5 PM) - FREE*<br><br>
+>[*Webinar on Introduction to digital assets*](https://bit.ly/3dQW0wT) *on 6th April 2020  6 PM IST - FREE*<br><br>
 >[*Automate the Boring Stuff, the best selling video course on learning Python is free until April 7.*](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) *FREE*<br><br>
 >[*Internshala announces free access to its online training programs for the students of Kerala, Jammu & Kashmir, and Ladakh till 31st March, in view of Coronavirus situation.*](https://trainings.internshala.com/fight-coronavirus)<br><br>
 >[*Machine Learning Starter Program - Analytics Vidhya*](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) *(Use coupon: LOCKDOWN) to get INR 4999 Rs. Discount)*<br><br>
@@ -104,6 +104,36 @@ Visit <a href="https://stories.audible.com/start-listen" target="_blank">Audible
 Education
 --------
 
+#### Progate | Free access
+
+<img src="https://d2aj9sy12tbpym.cloudfront.net/javascripts/dist/assets/symbol_logo-8910427a85fe195bfea5f840b0c671e9.svg" width="50">
+
+To minimize the impact of COVID-19 outbreak on students, Progate (an online coding learning platform from Japan) has shared free access to their learning platform for all students until **30th April 2020.** This will not only help you to strengthen your programming skills but will also allow you to prepare for interviews and placements. 
+
+This access includes 14 detailed online lessons of Python, Go, SQL, Command-Line and Git. You will also get free access to all the 1st lesson of any other courses by default.
+
+**STEPS TO ACTIVATE YOUR ACCESS:**
+
+**(1) Login using Gmail/FB/Twitter on progate.com (if you haven't already)**
+**(2) Join the team: bit.ly/progatecovid19**
+**(3) Start learning!**
+
+
+Click to <a href="https://www.udemy.com/course/complete-python-bootcamp-expert-course/?couponCode=134938CFC93B377ED09E" target="_blank">Redeem</a>
+
+<hr>
+
+
+#### Complete Python Bootcamp : Go Beginner to Expert in Python 3 | Free
+
+<img src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" width="300">
+
+Learn to use Python professionally, learning both Python 2 and Python 3!
+
+Click to <a href="https://www.udemy.com/course/complete-python-bootcamp-expert-course/?couponCode=134938CFC93B377ED09E" target="_blank">Redeem</a>
+
+<hr>
+
 #### Machine Learning Startup Program - Analytics Vidhya 
 
 <img src="https://pbs.twimg.com/media/EUrhit8U4AUB0iW?format=jpg&name=small" width="400">
@@ -115,7 +145,7 @@ Click to <a href="https://courses.analyticsvidhya.com/bundles/machine-learning-s
 
 <hr>
 
-#### Automate the Boring Stuff with Python Programming - Udemy
+#### Automate the Boring Stuff with Python Programming - Udemy | Free
 
 <img src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" width="300">
 
@@ -508,6 +538,20 @@ Register <a href="https://www.omidyarnetwork.in/blog/omidyar-network-india-annou
 
 Online-Events
 --------
+
+#### TechByHer - Webinar
+
+<!-- <img src="https://images.typeform.com/images/87f2JWSu8GyU/image/default" width="200"> -->
+
+Barriers and glass ceilings are meant to be broken, you just have to put a little effort into it.  Gear up to bend the status Quo as DevC Kochi unveils a brand new series of #TechByHer webinar led by inspiring women who have broken down walls and shattered norms to establish themselves in the world of technology.
+
+Joining us would be Fausya Amalh , An ML Engineer working now as a Product Development Analyst at Tangerine ; And  Sangeeta Gupta, a GHCI Scholar and Facebook DevC Pune Lead - sharing their inspiring stories and learnings with us. 
+
+Tune in to Facebook Developer Circles Kochi Group this **Monday April 6th at 7pm** to hear how they found their own path and take home their learnings.
+
+RSVP Here <a href="bit.ly/techbyherkochi" target="_blank">bit.ly/techbyherkochi</a>
+
+<hr>
 
 #### Webinar on PCB Designing
 
