@@ -10,7 +10,7 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 
 > ***Whats new?*** <br>
 >[*Kerala Startup Mission on behalf of Government of Kerala is calling for innovative ideas and solutions to defend and hunt down the Global Pandemic from the Avengers around us*](https://breakcorona.in/) *Read here*<br><br>
->[*Webinar on Introduction to digital assets*](https://bit.ly/3dQW0wT) *on 6th April 2020  6 PM IST - FREE*<br><br>
+>[*ASAP Webinar on Industry 4.0 implication on employment by Dr. Sandhya Tarar*](http://skillparkkerala.in/news_and_events/webinars/) *On 06 April 2020 – 4 PM*<br><br>
 >[*Automate the Boring Stuff, the best selling video course on learning Python is free until April 7.*](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) *FREE*<br><br>
 >[*Internshala announces free access to its online training programs for the students of Kerala, Jammu & Kashmir, and Ladakh till 31st March, in view of Coronavirus situation.*](https://trainings.internshala.com/fight-coronavirus)<br><br>
 >[*Machine Learning Starter Program - Analytics Vidhya*](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) *(Use coupon: LOCKDOWN) to get INR 4999 Rs. Discount)*<br><br>
@@ -538,6 +538,20 @@ Register <a href="https://www.omidyarnetwork.in/blog/omidyar-network-india-annou
 
 Online-Events
 --------
+#### ASAP Webinars
+
+<!-- <img src="http://skillparkkerala.in/wp-content/uploads/2020/04/ASAP-webinar-5-724x1024.jpg" width="200"> -->
+
+ASAP is Conducting a series of webinars to develop the skills of people in this lock down period effectively. The webinars on different topic will be conducted from Monday to Friday 4 PM to 5 PM, Those who are interested can attend the webinar by visiting following link on the time. No pre – registration required. It is able to enter before half an hour to the scheduled time only. All are welcomed. Please mail us to csp@asapkerala.gov.in if you have any query or suggestions. 
+
+### Upcoming Webinar
+**Topic: Industry 4.0 implication on employment**
+
+**Date: 06 April 2020 Time:4 PM**
+
+<a href="http://skillparkkerala.in/news_and_events/webinars/" target="_blank">Join Webinar ></a>
+
+<hr>
 
 #### TechByHer - Webinar
 
