@@ -1,10 +1,10 @@
 ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb54a76ef-c6f4-4408-833c-8dea38240d7f%2FFrame_2.png?table=block&id=574b63e4-439e-48ca-a2c7-5952cb7d4000&width=2050&cache=v2)
 
-Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-=======================
+# Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 [![Release](https://img.shields.io/badge/Release-2020.03.01-blue.svg)](https://shields.io/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishamsu/awesome-quarantine/graphs/commit-activity) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishamsu/awesome-quarantine/pulls) [![GitHub contributors](https://img.shields.io/github/contributors/ishamsu/awesome-quarantine.svg)](https://github.com/ishamsu/awesome-quarantine/graphs/contributors) [![GitHub forks](https://img.shields.io/github/forks/ishamsu/awesome-quarantine.svg)](https://github.com/ishamsu/awesome-quarantine/network/members) [![GitHub stars](https://img.shields.io/github/stars/ishamsu/awesome-quarantine.svg)](https://github.com/ishamsu/awesome-quarantine/stargazers) [![GitHub watchers](https://img.shields.io/github/watchers/ishamsu/awesome-quarantine.svg)](https://github.com/ishamsu/awesome-quarantine/watchers)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishamsu/awesome-quarantine/graphs/commit-activity) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishamsu/awesome-quarantine/pulls) [![GitHub contributors](https://img.shields.io/github/contributors/ishamsu/awesome-quarantine.svg)](https://github.com/ishamsu/awesome-quarantine/graphs/contributors) [![GitHub forks](https://img.shields.io/github/forks/ishamsu/awesome-quarantine.svg)](https://github.com/ishamsu/awesome-quarantine/network/members) [![GitHub stars](https://img.shields.io/github/stars/ishamsu/awesome-quarantine.svg)](https://github.com/ishamsu/awesome-quarantine/stargazers) [![GitHub watchers](https://img.shields.io/github/watchers/ishamsu/awesome-quarantine.svg)](https://github.com/ishamsu/awesome-quarantine/watchers)<br>
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=This+is+a+curated+list+of+free+and+useful+resources%2C+software+and+other+offerings+for+those+who+are+quarantined+at+home+%F0%9F%A6%A0%F0%9F%94%93%28developers%2C+students+%26+for+everyone%29%E2%9A%A1%EF%B8%8F%0D%0A%23quarantinelife+%23breakthechain+%23developers+%23students+%23teachers&url=http%3A%2F%2Fgithub.com/ishamsu/awesome-quarantine)
 ---
 
@@ -17,9 +17,10 @@ Awesome-quarantine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 >[*Mozilla has announced the creation of a COVID-19 Solutions Fund as part of the Mozilla Open Source Support Program (MOSS).Through this fund, they will provide awards of up to $50,000 USD each to open source technology projects which are responding to the COVID-19 pandemic in some way.*](https://mozilla.fluxx.io/apply/MOSS)<br><br>
 >[*Read How to host a Zoom meeting*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f) *(Click here)*
  
+<br>
 
-This is a curated list of free and useful resources, software and other offerings for those who are quarantined at home 🦠🔓(developers, students & for everyone) ⚡️
-You can help by adding more contents by a **Pulll request**. Check the [**Contribution Guideline**](https://github.com/ishamsu/awesome-quarantine/blob/master/contributing.md) before contributing
+This is a curated list of free and useful resources, software and other offerings for those who are quarantined at home 🦠 (Developers, Students & for Everyone) ⚡️
+You can help by adding more contents by a [**Pull request**](https://github.com/ishamsu/awesome-quarantine/pulls?q=is%3Apr+is%3Aclosed) (Pull request will be handled **within 24 hours**) Check the [**Contribution Guideline**](https://github.com/ishamsu/awesome-quarantine/blob/master/contributing.md) before contributing
 
 Table of Contents
 -----------------
@@ -45,7 +46,7 @@ Visit <a href="https://www.ohyouprettythings.com/free" target="_blank">Here</a>
 
 #### Amazon Prime Video
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Amazon_Prime_logo.png/798px-Amazon_Prime_logo.png" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Amazon_Prime_logo.png/798px-Amazon_Prime_logo.png" width="150">
 
 You get the most bang for your metaphorical buck with Amazon Prime. The **free trial is 30 days**, but not only do you benefit from streaming TV shows and movies, you also get musics too.
 
@@ -55,7 +56,7 @@ Visit <a href="https://www.primevideo.com/" target="_blank">Amazon Prime Video</
 
 #### Crunchyroll
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Crunchyroll_Logo.svg/251px-Crunchyroll_Logo.svg.png" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Crunchyroll_Logo.svg/251px-Crunchyroll_Logo.svg.png" width="50">
 
 Crunchyroll is an American distributor, publisher, and licensing company focused on streaming anime, manga, and dorama.
 
@@ -83,7 +84,7 @@ Visit <a href="https://t.me/bookwormET" target="_blank">bookwormET</a>
 
 #### Free Resources on MUSE During COVID-19
 
-<img src="https://about.muse.jhu.edu/images/muselogo2x.png" width="200">
+<img src="https://about.muse.jhu.edu/images/muselogo2x.png" width="150">
 
 In response to the challenges created by the global public health crisis of COVID-19, Project MUSE is pleased to support its participating publishers in making scholarly content temporarily available for free on their platform.
 
@@ -93,7 +94,7 @@ Visit <a href="https://about.muse.jhu.edu/resources/freeresourcescovid19/#" targ
 
 #### Audible stories
 
-<img src="https://m.media-amazon.com/images/G/01/AudibleBlisseyReactWebApp/images/headline_3._CB1584461446_.png" width="200">
+<img src="https://m.media-amazon.com/images/G/01/AudibleBlisseyReactWebApp/images/headline_3._CB1584461446_.png" width="150">
 
 Audible stories are free now for kids and families. Available in six languages
 
@@ -114,9 +115,9 @@ This access includes 14 detailed online lessons of Python, Go, SQL, Command-Line
 
 **STEPS TO ACTIVATE YOUR ACCESS:**
 
-**(1) Login using Gmail/FB/Twitter on progate.com (if you haven't already)**
-**(2) Join the team: bit.ly/progatecovid19**
-**(3) Start learning!**
+* **(1) Login using Gmail/FB/Twitter on progate.com (if you haven't already)**
+* **(2) Join the team: bit.ly/progatecovid19**
+* **(3) Start learning!**
 
 
 Click to <a href="https://www.udemy.com/course/complete-python-bootcamp-expert-course/?couponCode=134938CFC93B377ED09E" target="_blank">Redeem</a>
@@ -126,7 +127,7 @@ Click to <a href="https://www.udemy.com/course/complete-python-bootcamp-expert-c
 
 #### Complete Python Bootcamp : Go Beginner to Expert in Python 3 | Free
 
-<img src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" width="300">
+<img src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" width="150">
 
 Learn to use Python professionally, learning both Python 2 and Python 3!
 
@@ -136,7 +137,7 @@ Click to <a href="https://www.udemy.com/course/complete-python-bootcamp-expert-c
 
 #### Machine Learning Startup Program - Analytics Vidhya 
 
-<img src="https://pbs.twimg.com/media/EUrhit8U4AUB0iW?format=jpg&name=small" width="400">
+<img src="https://pbs.twimg.com/media/EUrhit8U4AUB0iW?format=jpg&name=small" width="300">
 
 Analytics Vidhya has made their Machine Learning Startup Program free till April 14th for everyone! This includes a course on machine learning, access to 2 hackathons, key talks from DataHack Summit by experts, and a free Machine Learning handbook!
 **(Use Coupon: LOCKDOWN) to get INR 4999 ($80) DISCOUNT**
@@ -147,7 +148,7 @@ Click to <a href="https://courses.analyticsvidhya.com/bundles/machine-learning-s
 
 #### Automate the Boring Stuff with Python Programming - Udemy | Free
 
-<img src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" width="300">
+<img src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" width="150">
 
 Automate the Boring Stuff, the best selling video course on learning Python is **free until April 7**.
 
@@ -157,7 +158,7 @@ Click to <a href="https://www.udemy.com/course/automate/?couponCode=APR2020FREE"
 
 #### Udacity
 
-<img src="https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/themes/udacity_wp_1_8/images/Udacity_Logo_SVG_200x35.svg" width="300">
+<img src="https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/themes/udacity_wp_1_8/images/Udacity_Logo_SVG_200x35.svg" width="150">
 
 Udacity’s Contribution to the COVID-19 Crisis: One Free Month Access to Nanodegree Programs
 **offering everyone one free month on one of 40 premium Nanodegree programs.**
@@ -190,7 +191,7 @@ For more deails visit <a href="https://trainings.internshala.com/fight-coronavir
 
 #### Unity Learn Premium
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" width="150">
 
 During the COVID-19 crisis, Unity supporting the community with complimentary access to Unity Learn Premium for three months **(March 19 through June 20)**. Get exclusive access to Unity experts, live interactive sessions, on-demand learning resources, and more.
 
@@ -200,7 +201,7 @@ Visit <a href="https://unity.com/products/learn-premium" target="_blank">Unity l
 
 #### Coursera for Campus
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Coursera_logo.PNG" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Coursera_logo.PNG" width="150">
 
 Coursera for Campus will be available globally at no cost to any university impacted by COVID-19
 
@@ -220,7 +221,7 @@ Visit <a href="https://www.coursera.org/coronavirus/?utm_campaign=website&utm_co
 
 #### Linkedin
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="50">
 
 The social networking website is opening up 16 of its learning courses for free. Courses that provide,
 * Tips on how to stay productive
@@ -235,7 +236,7 @@ Visit <a href="https://www.linkedin.com/learning/paths/remote-working-setting-yo
 
 #### Open and free content on JSTOR and Artstor
 
-<img src="https://www.jstor.org/assets/global_20200323T1729/build/images/jstor-logo.png" width="80">
+<img src="https://www.jstor.org/assets/global_20200323T1729/build/images/jstor-logo.png" width="50">
 
 During the current COVID-19 crisis, JSTOR and their participating publishers are making additional content freely available to participating institutions where students have been displaced
 
@@ -247,7 +248,7 @@ Collaboration-tools
 
 #### Free Webex Offer by CISCO
 
-<img src="https://help.webex.com/images/cisco-logo-blue.png" width="200">
+<img src="https://help.webex.com/images/cisco-logo-blue.png" width="150">
 
 Effective immediately, CISCO expanded the capabilities of its free Webex offer in all countries where it is available, not only those impacted by COVID-19.
 
@@ -264,7 +265,7 @@ Visit <a href="https://www.webex.co.in/" target="_blank">Webex</a>
 
 #### Zoom
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Zoom_Communications_Logo.svg" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Zoom_Communications_Logo.svg" width="150">
 
 Zoom offers a full-featured Basic Plan for free with unlimited meetings.
 
@@ -286,7 +287,7 @@ Visit <a href="https://zoom.us/" target="_blank">Zoom</a>
 
 #### Jitsi
 
-<img src="https://335wvf48o1332cksy23mw1pj-wpengine.netdna-ssl.com/wp-content/themes/jitsi/images/logo.png" width="200">
+<img src="https://335wvf48o1332cksy23mw1pj-wpengine.netdna-ssl.com/wp-content/themes/jitsi/images/logo.png" width="150">
 
 **Multi-platform
 open-source video conferencing**
@@ -298,7 +299,7 @@ Visit <a href="https://jitsi.org" target="_blank">Jitsi</a>
 
 #### Loom
 
-<img src="https://assets-global.website-files.com/5c991ff59b4c11294d51a8bd/5c991ff59b4c11a79551a91d_loom-logo.svg" width="200">
+<img src="https://assets-global.website-files.com/5c991ff59b4c11294d51a8bd/5c991ff59b4c11a79551a91d_loom-logo.svg" width="150">
 
 Video messaging platform Loom announced that it is removing recording limits on its free plan (formerly capped at 25), cutting the price of Loom Pro from $10/month to $5 a month, and extending its free trial of **Loom Pro from 14 to 30 days.** These offers are valid until July 1.
 
@@ -309,7 +310,7 @@ Visit <a href="https://www.loom.com/" target="_blank">Loom</a>
 
 #### Screen
 
-<img src="https://screen.so/assets/img/logo.svg" width="200">
+<img src="https://screen.so/assets/img/logo.svg" width="150">
 
 With fast, multiplayer screen sharing, Screen lets you work together like you’re in the same room.
 
@@ -318,7 +319,7 @@ Visit [Screen.so](https://screen.so/)
 
 #### Slack
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" width="150">
 
 Slack is a meeting space, water-cooler, bulletin board, and phone-tree for your whole organizing team. It’s a great place to coordinate and collaborate, and a fun place to get to know your fellow organizers and activists, even when you can’t all be in the same room at the same time. It’s a tool that you can use on your computer and your phone to stay in touch with your team, and keep everyone up to date with the important news and goings-on.
 
@@ -327,7 +328,7 @@ Visit <a href="https://slack.com/intl/en-in/" target="_blank">Slack</a>
 
 #### Discord
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Discord-Logo.png" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Discord-Logo.png" width="150">
 
 Discord is the easiest way to communicate over voice, video, and text, whether you’re part of a school club, a nightly gaming group, a worldwide art community, or just a handful of friends that want to hang out.
 
@@ -340,7 +341,7 @@ Software-Packs
 
 #### Adobe creative cloud for students
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Creative_Cloud.svg/800px-Creative_Cloud.svg.png" width="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Creative_Cloud.svg/800px-Creative_Cloud.svg.png" width="100">
 
 Adobe is making temporary at-home access to Creative Cloud available until **May 31, 2020** for schools and colleges who currently have only lab access for students, at no additional cost.
 To be eligible for this access, your school or college must be a current customer with an active Device, Shared Device License, or Serial Number plan. This at-home access is temporary, and will apply to Adobe ID, Federated ID or Enterprise ID users in your Adobe Admin Console. **The temporary licenses may be provided and removed at Adobe’s sole discretion.**
@@ -366,7 +367,7 @@ Download <a href="https://www.downdogapp.com" target="_blank">Downdogapp</a>
 
 #### Affinity
 
-<img src="https://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/wrbqvx3ugd0nhfhrrvte.jpg" width="200">
+<img src="https://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/wrbqvx3ugd0nhfhrrvte.jpg" width="100">
 
 Affinity Graphic Design Software Free 3 Months Trial (Windows & Mac) 
 
@@ -397,7 +398,7 @@ Register<a href="https://localhackday.mlh.io/share/locations/3384" target="_blan
 
 #### MOZILLA OPEN SOURCE SUPPORT AWARDS
 
-<img src="https://s3.amazonaws.com/fluxx-grants-io-production/config_documents/7219_3096256/moz-logo-bw-rgb.png?1490748917" width="300">
+<img src="https://s3.amazonaws.com/fluxx-grants-io-production/config_documents/7219_3096256/moz-logo-bw-rgb.png?1490748917" width="150">
 
 Mozilla is announcing today the creation of a COVID-19 Solutions Fund as part of the Mozilla Open Source Support Program (MOSS). Through this fund, they will provide awards of up to $50,000 each to open source technology projects which are responding to the COVID-19 pandemic in some way.
 
@@ -409,7 +410,7 @@ Apply<a href="https://mozilla.fluxx.io/apply/MOSS" target="_blank"> Now</a>
 
 #### Break Corona
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCDmKgJix9OGZqxXO1YkK0c53I8WThT8m2OWFWe6NahrdgvTIF&usqp=CAU" width="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCDmKgJix9OGZqxXO1YkK0c53I8WThT8m2OWFWe6NahrdgvTIF&usqp=CAU" width="150">
 
 **Idea & Product Solution**
 
@@ -443,7 +444,7 @@ Submit Solutions to combat Covid19<a href="https://www.startupindia.gov.in/conte
 
 #### Hack Quarantine
 
-<img src="https://pbs.twimg.com/card_img/1241894514647695360/sWLroLQo?format=jpg&name=small" width="300">
+<!-- <img src="https://pbs.twimg.com/card_img/1241894514647695360/sWLroLQo?format=jpg&name=small" width="300"> -->
 
 Hack Quarantine is a 3 week global, digital hackathon that aims to raise awareness and build solutions for those affected by the COVID-19 pandemic.
 
@@ -515,7 +516,7 @@ Visit <a href="https://githubhackathon.com" target="_blank">GitHub Actions Hacka
 
 #### MyGov
 
-<img src="https://community.makergram.com/assets/uploads/files/1584517574611-mygov15844310141-1536x512.jpg" width="500">
+<img src="https://community.makergram.com/assets/uploads/files/1584517574611-mygov15844310141-1536x512.jpg" width="300">
 
 The most important factor in preventing the spread of the Virus locally is to empower the citizens with the right information and taking precautions as per the advisories being issued by the Ministry of Health & Family Welfare. Further, we are also getting inputs with regard to individuals and companies who have developed technologies and innovative solutions, Bioinformatics, datasets, Apps for diagnosis etc that can be leveraged for strengthening the fight against Corona.
 
@@ -544,8 +545,9 @@ Online-Events
 
 ASAP is Conducting a series of webinars to develop the skills of people in this lock down period effectively. The webinars on different topic will be conducted from Monday to Friday 4 PM to 5 PM, Those who are interested can attend the webinar by visiting following link on the time. No pre – registration required. It is able to enter before half an hour to the scheduled time only. All are welcomed. Please mail us to csp@asapkerala.gov.in if you have any query or suggestions. 
 
-### Upcoming Webinar
-**Topic: Industry 4.0 implication on employment**
+###### Upcoming Webinar
+
+* **Topic:-** Industry 4.0 implication on employment
 
 **Date: 06 April 2020 Time:4 PM**
 
@@ -628,7 +630,7 @@ Register <a href="https://m.facebook.com/story.php?story_fbid=1076336636080255&i
 
 #### Blockchain Webinar | Zubi | Tezos India
 
-<img src="" width="200">
+<!-- <img src="" width="200"> -->
 
 The webinar is organized in collaboration with Tezos India Foundation and is scheduled for **27th March 2020, at 8.00 pm IST.** Anyone can register for it, free of cost. 
 
