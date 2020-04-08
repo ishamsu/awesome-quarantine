@@ -5,10 +5,10 @@
 <br>
 
 > ***Whats new?*** <br>
->[*Kerala Startup Mission on behalf of Government of Kerala is calling for innovative ideas and solutions to defend and hunt down the Global Pandemic from the Avengers around us*](https://breakcorona.in/) *Read more*<br><br>
->[*Get access to Google Cloud training at no cost*](http://skillparkkerala.in/news_and_events/webinars/) *FREE*<br><br>
->[*Automate the Boring Stuff, the best selling video course on learning Python is free until April 7.*](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) *FREE*<br><br>
->[*Vue mastery is giving out it's premium courses for free for one week*](https://www.vuemastery.com/free-week/?utm_source=newsletter&utm_medium=email&utm_campaign=stuck_at_home_watch_our_courses_for_free&utm_term=2020-04-07)<br><br>
+>[*Kerala Startup Mission on behalf of Government of Kerala is calling for innovative ideas and solutions to defend and hunt down the Global Pandemic from the Avengers around us*](https://breakcorona.in/) *(Read more)*<br><br>
+>[*Get access to Google Cloud training at no cost*](http://skillparkkerala.in/news_and_events/webinars/) *- FREE*<br><br>
+>[*Automate the Boring Stuff, the best selling video course on learning Python is free until April 7*](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) *- FREE*<br><br>
+>[*Vue mastery is giving out it's premium courses for free for one week*](https://www.vuemastery.com/free-week/?utm_source=newsletter&utm_medium=email&utm_campaign=stuck_at_home_watch_our_courses_for_free&utm_term=2020-04-07) *- FREE*<br><br>
 >[*Machine Learning Starter Program - Analytics Vidhya*](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) *(Use coupon: LOCKDOWN) to get INR 4999 Rs. Discount)*<br><br>
 >[*Mozilla has announced the creation of a COVID-19 Solutions Fund as part of the Mozilla Open Source Support Program (MOSS).Through this fund, they will provide awards of up to $50,000 USD each to open source technology projects which are responding to the COVID-19 pandemic in some way.*](https://mozilla.fluxx.io/apply/MOSS)<br><br>
 >[*Read How to host a Zoom meeting*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f) *(Click here)*
@@ -100,6 +100,18 @@ Visit <a href="https://stories.audible.com/start-listen" target="_blank">Audible
 
 Education
 --------
+
+#### Greyatom
+
+<img src="https://ik.imagekit.io/gawebprod/static/assets/images/temp/site-images/logo/greyatom-logo.d65fc29b718b.svg" width="150">
+
+StayHome: Best Free Online Data Science Courses to Upskill Yourself during COVID-19
+
+With the work-from-home protocol in place, here are online courses that you can take for free and grow your skill set. Stop coronavirus, not learning!
+
+Visit <a href="https://greyatom.com/free-online-data-science-courses?ref=codekeep.io" target="_blank">Greyatom</a>
+
+<hr>
 
 #### Oracle
 
