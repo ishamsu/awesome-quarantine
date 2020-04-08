@@ -101,6 +101,29 @@ Visit <a href="https://stories.audible.com/start-listen" target="_blank">Audible
 Education
 --------
 
+#### Red Hat
+
+<img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQGcf3qutnY7VA/articleshare-shrink_800/0?e=1586451600&v=beta&t=CJPJVbHK8JcxcSBYAL1Ymz38KBFn2aS2Slxx6ubrBUg" width="150">
+
+Red Hat offering various courses as complimentary access for free.
+
+
+Because of #COVID_19 Situation Red Hat provides free courses for 30Days durations. Get the benifits as much as you can. These all are worth more than ₹10-₹15k at Red Hat Here, I'm attaching all the links of #freecourses.
+
+Complimentary Technical Overviews:
+* 💐 Red Hat Enterprise Linux Technical Overview (RH024) - https://lnkd.in/fGqpF6a
+* 💐 Red Hat Agile Integration Technical Overview (DO040) - https://lnkd.in/feDkixr
+* 💐 Ansible Essentials: (DO007) - https://lnkd.in/fYuBVFb
+* 💐 (DO080) - https://lnkd.in/fmvNv-h
+* 💐 (RH053) - https://lnkd.in/fR7DJ4X
+* 💐 (CL010) - https://lnkd.in/fUHt8VG
+* 💐 (RH018) - https://lnkd.in/fvi3XBw
+
+
+Visit <a href="https://www.redhat.com/en" target="_blank">Red Hat</a>
+
+<hr>
+
 #### The ultimate learning resource for Vue developers | Vue mastery
 
 <img src="https://www.vuemastery.com/images/vuemastery-white.svg" width="150">
