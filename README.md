@@ -597,7 +597,7 @@ Date: April 4, 2020**~~
 ~~Register <a href="https://community.mozilla.org/events/rustacean-meetup/
 " target="_blank">Here</a>~~
 
-~~### SPARK AR Online Workshop~~
+### ~~SPARK AR Online Workshop~~
 
 <img src="https://images.typeform.com/images/87f2JWSu8GyU/image/default" width="200">
 
