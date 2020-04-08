@@ -20,27 +20,26 @@ You can help by adding more contents by a [**Pull request**](https://github.com/
 
 Table of Contents
 -----------------
-- [Movies](#Movies)
-- [Books](#Books)
-- [Education](#Education)
-- [Collaboration Tools](#Collaboration-tools)
-- [Software Packs](#Software-20Packs)
-- [Online Hackathon](#Online-Hackathon)
-- [Online Events](#Online-Events)
-- [Commuinty for Discussion](#Community-for-Discussion)
+- [Movies](#movies)
+- [Books](#books)
+- [Education](#education)
+- [Collaboration Tools](#collaboration-tools)
+- [Software Packs](#software-Packs)
+- [Online Hackathon](#online-hackathon)
+- [Online Events](#online-events)
+- [Commuinty for Discussion](#community-for-discussion)
 
-Movies
+---
+## Movies
 --------
 
-#### Gary Hustwti's movies
+### Gary Hustwti's movies
 
 Filmmaker Gary Hustwit is streaming his documentaries free worldwide during the global COVID-19 crisis. Each Tuesday they are posting film on their website. We hope you enjoy them, and please stay strong.
 
 Visit <a href="https://www.ohyouprettythings.com/free" target="_blank">Here</a>
 
-<hr>
-
-#### Amazon Prime Video
+### Amazon Prime Video
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Amazon_Prime_logo.png/798px-Amazon_Prime_logo.png" width="150">
 
@@ -48,9 +47,7 @@ You get the most bang for your metaphorical buck with Amazon Prime. The **free t
 
 Visit <a href="https://www.primevideo.com/" target="_blank">Amazon Prime Video</a>
 
-<hr>
-
-#### Crunchyroll
+### Crunchyroll
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Crunchyroll_Logo.svg/251px-Crunchyroll_Logo.svg.png" width="50">
 
@@ -61,24 +58,20 @@ Crunchyroll is an American distributor, publisher, and licensing company focused
 Visit <a href="https://www.crunchyroll.com/en-gb/freetrial" target="_blank">crunchyroll</a>
 <hr>
 
-Books
+## Books
 --------
 
-#### Free Audiobooks
+### Free Audiobooks
 A telegram channel for free Audiobooks
 
 Visit <a href="https://t.me/Audiobookclassic" target="_blank">Audiobook</a>
 
-<hr>
-
-#### Free Ebooks
+### Free Ebooks
 A telegram channel for free Ebooks
 
 Visit <a href="https://t.me/bookwormET" target="_blank">bookwormET</a>
 
-<hr>
-
-#### Free Resources on MUSE During COVID-19
+### Free Resources on MUSE During COVID-19
 
 <img src="https://about.muse.jhu.edu/images/muselogo2x.png" width="150">
 
@@ -86,9 +79,7 @@ In response to the challenges created by the global public health crisis of COVI
 
 Visit <a href="https://about.muse.jhu.edu/resources/freeresourcescovid19/#" target="_blank">Project MUSE</a>
 
-<hr>
-
-#### Audible stories
+### Audible stories
 
 <img src="https://m.media-amazon.com/images/G/01/AudibleBlisseyReactWebApp/images/headline_3._CB1584461446_.png" width="150">
 
@@ -98,10 +89,10 @@ Visit <a href="https://stories.audible.com/start-listen" target="_blank">Audible
 <hr>
 
 
-Education
+## Education
 --------
 
-#### Greyatom
+### Greyatom
 
 <img src="https://ik.imagekit.io/gawebprod/static/assets/images/temp/site-images/logo/greyatom-logo.d65fc29b718b.svg" width="150">
 
@@ -111,9 +102,7 @@ With the work-from-home protocol in place, here are online courses that you can 
 
 Visit <a href="https://greyatom.com/free-online-data-science-courses?ref=codekeep.io" target="_blank">Greyatom</a>
 
-<hr>
-
-#### Oracle
+### Oracle
 
 <img src="https://pbs.twimg.com/profile_images/1171452654112755712/MW0_-kQQ_400x400.jpg" width="100">
 
@@ -121,9 +110,7 @@ Oracle Ramps Up Free Online Learning and Certifications for Oracle Cloud Infrast
 
 Visit <a href="https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html?ref=codekeep.io" target="_blank">Oracle</a>
 
-<hr>
-
-#### Red Hat
+### Red Hat
 
 <img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQGcf3qutnY7VA/articleshare-shrink_800/0?e=1586451600&v=beta&t=CJPJVbHK8JcxcSBYAL1Ymz38KBFn2aS2Slxx6ubrBUg" width="150">
 
@@ -144,9 +131,7 @@ Complimentary Technical Overviews:
 
 Visit <a href="https://www.redhat.com/en" target="_blank">Red Hat</a>
 
-<hr>
-
-#### The ultimate learning resource for Vue developers | Vue mastery
+### The ultimate learning resource for Vue developers | Vue mastery
 
 <img src="https://www.vuemastery.com/images/vuemastery-white.svg" width="150">
 
@@ -158,9 +143,7 @@ April 13, 12:00 AM ET until April 19, 11:59 PM ET**
 
 Click to <a href="https://www.vuemastery.com/free-week/?utm_source=newsletter&utm_medium=email&utm_campaign=stuck_at_home_watch_our_courses_for_free&utm_term=2020-04-07" target="_blank">Claim</a>
 
-<hr>
-
-#### Get access to Google Cloud training at no cost
+### Get access to Google Cloud training at no cost
 
 <img src="https://inthecloud.withgoogle.com/training-discount/static/img/svg-cloud-logo.svg" width="150">
 
@@ -169,9 +152,7 @@ In this time of transition to home working, we want to empower you to build new 
 
 Click to <a href="https://inthecloud.withgoogle.com/training-discount/register.html?utm_source=google&utm_medium=blog&utm_campaign=FY20-Q1-global-trainingandenablement-operational-other-training_discount&utm_content=athomelearning" target="_blank">Claim</a>
 
-<hr>
-
-#### Progate | Free access
+### Progate | Free access
 
 <img src="https://d2aj9sy12tbpym.cloudfront.net/javascripts/dist/assets/symbol_logo-8910427a85fe195bfea5f840b0c671e9.svg" width="50">
 
@@ -188,9 +169,7 @@ This access includes 14 detailed online lessons of Python, Go, SQL, Command-Line
 
 Click to <a href="https://www.udemy.com/course/complete-python-bootcamp-expert-course/?couponCode=134938CFC93B377ED09E" target="_blank">Redeem</a>
 
-<hr>
-
-#### Complete Python Bootcamp : Go Beginner to Expert in Python 3 | Free
+### Complete Python Bootcamp : Go Beginner to Expert in Python 3 | Free
 
 <img src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" width="150">
 
@@ -198,9 +177,7 @@ Learn to use Python professionally, learning both Python 2 and Python 3!
 
 Click to <a href="https://www.udemy.com/course/complete-python-bootcamp-expert-course/?couponCode=134938CFC93B377ED09E" target="_blank">Redeem</a>
 
-<hr>
-
-#### Machine Learning Startup Program - Analytics Vidhya 
+### Machine Learning Startup Program - Analytics Vidhya 
 
 <img src="https://pbs.twimg.com/media/EUrhit8U4AUB0iW?format=jpg&name=small" width="300">
 
@@ -209,9 +186,7 @@ Analytics Vidhya has made their Machine Learning Startup Program free till April
 
 Click to <a href="https://courses.analyticsvidhya.com/bundles/machine-learning-starter-program" target="_blank">Redeem</a>
 
-<hr>
-
-#### Automate the Boring Stuff with Python Programming - Udemy | Free
+### Automate the Boring Stuff with Python Programming - Udemy | Free
 
 <img src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" width="150">
 
@@ -219,9 +194,7 @@ Automate the Boring Stuff, the best selling video course on learning Python is *
 
 Click to <a href="https://www.udemy.com/course/automate/?couponCode=APR2020FREE" target="_blank">Redeem</a>
 
-<hr>
-
-#### Udacity
+### Udacity
 
 <img src="https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/themes/udacity_wp_1_8/images/Udacity_Logo_SVG_200x35.svg" width="150">
 
@@ -230,9 +203,7 @@ Udacity’s Contribution to the COVID-19 Crisis: One Free Month Access to Nanode
 
 For more deails visit <a href="https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html" target="_blank">this link</a>
 
-<hr>
-
-#### Moz Academy
+### Moz Academy
 
 <img src="https://pbs.twimg.com/card_img/1245017405560098817/KhdLx4pJ?format=jpg&name=small" width="300">
 
@@ -240,9 +211,7 @@ Moz Academy courses are now available for free! Browse our course list, then use
 
 For more deails visit <a href="https://moz.com/training" target="_blank">this link</a>
 
-<hr>
-
-#### Internshala
+### Internshala
 
 <img src="https://trainings.internshala.com/static/images/corona.png" width="300">
 
@@ -252,9 +221,7 @@ Internshala has announced its 2nd Coronavirus initiative to provide free trainin
 
 For more deails visit <a href="https://trainings.internshala.com/fight-coronavirus" target="_blank">this link</a>
 
-<hr>
-
-#### Unity Learn Premium
+### Unity Learn Premium
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" width="150">
 
@@ -262,9 +229,7 @@ During the COVID-19 crisis, Unity supporting the community with complimentary ac
 
 Visit <a href="https://unity.com/products/learn-premium" target="_blank">Unity learn-premium</a>
 
-<hr>
-
-#### Coursera for Campus
+### Coursera for Campus
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Coursera_logo.PNG" width="150">
 
@@ -282,9 +247,7 @@ Coursera for Campus will be available globally at no cost to any university impa
 
 Visit <a href="https://www.coursera.org/coronavirus/?utm_campaign=website&utm_content=c4cv-blog&utm_medium=coursera&utm_source=blog#form" target="_blank">Coursera for Campus</a>
 
-<hr>
-
-#### Linkedin
+### Linkedin
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="50">
 
@@ -297,9 +260,7 @@ The company is also using its powerful platform to share news more broadly, help
 
 Visit <a href="https://www.linkedin.com/learning/paths/remote-working-setting-yourself-and-your-teams-up-for-success" target="_blank">Linkedin learning</a>
 
-<hr>
-
-#### Open and free content on JSTOR and Artstor
+### Open and free content on JSTOR and Artstor
 
 <img src="https://www.jstor.org/assets/global_20200323T1729/build/images/jstor-logo.png" width="50">
 
@@ -308,10 +269,10 @@ During the current COVID-19 crisis, JSTOR and their participating publishers are
 Visit <a href="https://about.jstor.org/oa-and-free/" target="_blank">Here</a>
 <hr>
 
-Collaboration-tools
+## Collaboration-tools
 --------
 
-#### Free Webex Offer by CISCO
+### Free Webex Offer by CISCO
 
 <img src="https://help.webex.com/images/cisco-logo-blue.png" width="150">
 
@@ -326,9 +287,8 @@ Here are the additional features,
 * Offers toll dial-in (in addition to existing VoIP capabilities).
 
 Visit <a href="https://www.webex.co.in/" target="_blank">Webex</a>
-<hr>
 
-#### Zoom
+### Zoom
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Zoom_Communications_Logo.svg" width="150">
 
@@ -348,9 +308,8 @@ Zoom offers a full-featured Basic Plan for free with unlimited meetings.
 *Here is guide on 'how to host a meeting on Zoom!' [**Read here**](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f)*
 
 Visit <a href="https://zoom.us/" target="_blank">Zoom</a>
-<hr>
 
-#### Jitsi
+### Jitsi
 
 <img src="https://335wvf48o1332cksy23mw1pj-wpengine.netdna-ssl.com/wp-content/themes/jitsi/images/logo.png" width="150">
 
@@ -360,9 +319,8 @@ open-source video conferencing**
 At Jitsi, we believe every video chat should look and sound amazing, between **two people or 200**. Whether you want to build your own massively multi-user video conference client, or use ours, **all our tools are 100% free**, open source, and WebRTC compatible.
 
 Visit <a href="https://jitsi.org" target="_blank">Jitsi</a>
-<hr>
 
-#### Loom
+### Loom
 
 <img src="https://assets-global.website-files.com/5c991ff59b4c11294d51a8bd/5c991ff59b4c11a79551a91d_loom-logo.svg" width="150">
 
@@ -371,9 +329,8 @@ Video messaging platform Loom announced that it is removing recording limits on 
 Additionally, the company announced that **Loom Pro is now free in perpetuity for students and teachers who are using Loom for classroom work**.
 
 Visit <a href="https://www.loom.com/" target="_blank">Loom</a>
-<hr>
 
-#### Screen
+### Screen
 
 <img src="https://screen.so/assets/img/logo.svg" width="150">
 
@@ -382,16 +339,15 @@ With fast, multiplayer screen sharing, Screen lets you work together like you’
 Visit [Screen.so](https://screen.so/)
 
 
-#### Slack
+### Slack
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" width="150">
 
 Slack is a meeting space, water-cooler, bulletin board, and phone-tree for your whole organizing team. It’s a great place to coordinate and collaborate, and a fun place to get to know your fellow organizers and activists, even when you can’t all be in the same room at the same time. It’s a tool that you can use on your computer and your phone to stay in touch with your team, and keep everyone up to date with the important news and goings-on.
 
 Visit <a href="https://slack.com/intl/en-in/" target="_blank">Slack</a>
-<hr>
 
-#### Discord
+### Discord
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Discord-Logo.png" width="150">
 
@@ -400,11 +356,10 @@ Discord is the easiest way to communicate over voice, video, and text, whether y
 Visit <a href="https://discordapp.com/" target="_blank">Discord</a>
 <hr>
 
-
-Software-Packs
+## Software-Packs
 --------
 
-#### Adobe creative cloud for students
+### Adobe creative cloud for students
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Creative_Cloud.svg/800px-Creative_Cloud.svg.png" width="100">
 
@@ -417,9 +372,7 @@ To be eligible for this access, your school or college must be a current custome
 
 Visit <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4WsTc3KjN4xJpPpf5AwKlwJUN1BaMUU0S0I3MDlQUk03MENXMlZCNkcwWS4u" target="_blank">Adobe for students</a>
 
-<hr>
-
-#### DownDog yoga app
+### DownDog yoga app
 
 <img src="https://lh3.googleusercontent.com/5SJjujN7AlLUX7pkm9PLhwAzItMiJJl04Ix-BkhxsGfIsxBvsUi1CnwIKD7un2frjgg" width="200">
 
@@ -428,9 +381,7 @@ So that anyone who wants to practice at home can do so, they are making all of t
 
 Download <a href="https://www.downdogapp.com" target="_blank">Downdogapp</a>
 
-<hr>
-
-#### Affinity
+### Affinity
 
 <img src="https://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/wrbqvx3ugd0nhfhrrvte.jpg" width="100">
 
@@ -442,13 +393,11 @@ Affinity Graphic Design Software Free 3 Months Trial (Windows & Mac)
 
 Download <a href="https://affinity.serif.com/en-us/supporting-the-creative-community/" target="_blank">Affinity</a>
 
-<hr>
 
-
-Online-Hackathon
+## Online-Hackathon
 --------
 
-#### Local Hack Day: Share 2020 in New Delhi
+### Local Hack Day: Share 2020 in New Delhi
 
 <img src="https://localhackday.mlh.io/_next/static/images/mlh-logo-bc5cfd3a887013976863247e66c389a2.svg" width="100">
 
@@ -459,9 +408,8 @@ This is an event for all skill levels, from beginners to the most veteran develo
 *A Share Day hosted by **Microsoft Student Partner***
 
 Register<a href="https://localhackday.mlh.io/share/locations/3384" target="_blank"> Here</a>
-<hr>
 
-#### MOZILLA OPEN SOURCE SUPPORT AWARDS
+### MOZILLA OPEN SOURCE SUPPORT AWARDS
 
 <img src="https://s3.amazonaws.com/fluxx-grants-io-production/config_documents/7219_3096256/moz-logo-bw-rgb.png?1490748917" width="150">
 
@@ -471,9 +419,8 @@ As part of the COVID-19 Solutions Fund, they will accept applications that are h
 
 
 Apply<a href="https://mozilla.fluxx.io/apply/MOSS" target="_blank"> Now</a>
-<hr>
 
-#### Break Corona
+### Break Corona
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCDmKgJix9OGZqxXO1YkK0c53I8WThT8m2OWFWe6NahrdgvTIF&usqp=CAU" width="150">
 
@@ -482,19 +429,16 @@ Apply<a href="https://mozilla.fluxx.io/apply/MOSS" target="_blank"> Now</a>
 When the adverse CoronaVirus is taking lives from various parts of the Globe, Kerala Startup Mission on behalf of Government of Kerala is calling for innovative ideas and solutions to defend and hunt down the Global Pandemic from the Avengers around us.
 
 Apply<a href="https://breakcorona.in/" target="_blank"> Now</a>
-<hr>
 
-
-#### Calling All Innovators -  IgniteX Accelerator
+### Calling All Innovators -  IgniteX Accelerator
 
 <img src="https://images.squarespace-cdn.com/content/5e79e8f092b8f7283b2e47f1/1585334143053-JWOGIJLZTP1EK0X8T1F6/BV+Ignite+Final+Logo+2.png?content-type=image%2Fpng" width="300">
 
 Do you have a solution that can reduce the severity of the coronavirus outbreak, but need help commercializing and rapidly deploying? The Black & Veatch COVID-19 Response Accelerator is designed for growing companies looking to scale emerging solutions to save lives, help communities cope, and protect the economy.
 
 Apply<a href="https://www.bvignite.com/" target="_blank"> Here</a>
-<hr>
 
-#### Startup India - Challange
+### Startup India - Challange
 
 <img src="https://api.startupindia.gov.in/sih/api/file/ams/banner/logo?fileName=3dbebfb8-3c97-4e98-a778-29a80fd44d14.jpg" width="300">
 
@@ -505,9 +449,8 @@ The Challenge is open to all the Startups, Companies, Innovators etc. whose inno
 **Apply before Wednesday, 15th April**
 
 Submit Solutions to combat Covid19<a href="https://www.startupindia.gov.in/content/sih/en/ams-application/challenge.html?applicationId=5e79126ee4b055bfaea9ef66" target="_blank"> Here</a>
-<hr>
 
-#### Hack Quarantine
+### Hack Quarantine
 
 <!-- <img src="https://pbs.twimg.com/card_img/1241894514647695360/sWLroLQo?format=jpg&name=small" width="300"> -->
 
@@ -518,7 +461,6 @@ Hack Quarantine is a 3 week global, digital hackathon that aims to raise awarene
 **March 23rd to April 12th**
 
 Join <a href="https://hackquarantine.com/" target="_blank">Here</a>
-<hr>
 
 #### STORM THE HACK
 
@@ -529,9 +471,8 @@ The COVID-19 Global Hackathon is an opportunity for developers to build software
  **Deadline: 9:00am PDT Mar 30, 2020**
 
 Join the Storm <a href="https://storm-the-hack.now.sh" target="_blank">Here</a>
-<hr>
 
-#### Coronathon
+### Coronathon
 
 <img src="https://coronathon.in/img/corona.png" width="200">
 
@@ -550,9 +491,7 @@ Join 1000+ other people from India's tech, business and healthcare community and
 
 Visit <a href="https://coronathon.in" target="_blank">Coronathon</a>
 
-<hr>
-
-#### CODE-VID 19
+### CODE-VID 19
 
 <img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-0/p526x296/90347859_2770654082970555_3740093929794568192_o.jpg?_nc_cat=106&_nc_sid=8bfeb9&_nc_oc=AQnoapSlROMvhR_a22z_elJmuiJo60sLu5nBxIzrYz8_vCuHCduNk93GSIAnL3UKK3heSAI-UJjgxhPS8v5uyqSR&_nc_ht=scontent.fcok1-1.fna&_nc_tp=6&oh=ae2768864963ca178310b382c68a2ffe&oe=5E9E99F3" width="200">
 
@@ -560,9 +499,7 @@ Kerala Police Cyberdome is conducting Online Hackathon “CODE-VID-19” to find
 
 Register <a href="https://docs.google.com/forms/d/e/1FAIpQLScxfkQ6RkqrkZBEcoP6vhMifOTbtQwYXPArEHWiqf8ponq4AA/viewform?usp=send_form" target="_blank">Here</a>
 
-<hr>
-
-#### GitHub Actions hackathon
+### GitHub Actions hackathon
 
 <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPDg4NDw8NEBAOEBUQDhARDxAQEBUQFxEWFxURFhYYHSkhGBoxHRUVIT0hJSkrLi4xGCA1ODMsNyguOi0BCgoKDg0OGxAQGy8lHyMrMC0tLSstKy0tLzUrKy8tLy0rLS0tLy0rLTAvKysvLS0tLS0rLS0tLS0tLS0vLS0tLv/AABEIAKgBKwMBEQACEQEDEQH/xAAbAAEAAQUBAAAAAAAAAAAAAAAAAQIEBQYHA//EAEMQAAEDAwIDBQQGCAILAAAAAAEAAgMEERIFIQYTMQciMkFRFGFxgRUjUpGxwSQzNGKhsrPRRJMXJUJkcnN0g6LD8f/EABoBAQEBAQEBAQAAAAAAAAAAAAABAwIEBQb/xAA3EQEAAgIABAIHBwMDBQAAAAAAAQIDEQQSITFBURNhcYGRscEFFCIyodHwUpLhQqPxM1NissL/2gAMAwEAAhEDEQA/AOMr6oICAgICAqggICAgICAgICoICAglAQFQQEBBKAqCAgICAgKggICAgIKVkogICAgICqCAgICAgICAgKggIJQEBAVBAQSgICoICAgICAgKggICAgpWSiAgICAiCoICAgICAgICAqCCUBAQEBUEBAQSgKggICAgICAqCAgICClZKICAgICIKggICAgICAgICoICCUBAQEBUEBBKAqCAgICAgICoICAgIKVkogICAgIgqCAgICAgICAgKggIJQEBAVBAQEBBKoICAgICAgKggICAgpWSiAgICAgKoICAgICAgICAqCCUEIJQEBUEBAQSgKggICAgICAqCAgICClZKICAgICIKggICAgICAgICoICCUBAQFQQEEoCAqCAgICAgKggICAgIKVkogICAgICqCAgICAgrhiLyGtBJcQAACSSTYAAdSpM6WI22Cv4J1CngNTNTOZE0AucZIiQCQBdodfqR5LzU4zDe3LW3X3tbYL1jcwxNZpU8L3RywyxvaAXNcwghpFwT7ltXLS0brLiaTE6mHs/QqlopiYXD2z9l3b9Zu0bb7bub1t1UjNSd9fy9/Uvo7dOnfsta6hkglfDKwskjOL2mxINr2228wu6XrevNXs5tWYnUvV2kzinbVmN3IdJymyXFjJYnG179Gny8lIy15+TfXuvJOubwWjGEm26725XusaPPRymCojMcgaHY3a7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CFzakWjUrW0xO4e+v8R1Ve5jqqUymMEMJDRYEgkbD3BSmOtOzu+W14iJ8PKIj5PThvimr00yOpJBGZQ0SXjjfcNvj4gbeI/erfHW/dxFph7QcZVsdZJXtmtUSsLHyYMN2ktJFrWHgb09EvSLRyz2K2ms7hZa7rtRXSCWpkMj2twDiGju3JtsPepTHWkah1kyWvrfh6tLnhriys03meySiPnY8y8ccl8b28QNvEUvjrfu5i0wiLiqsZVvr2zvbUSXzeABlcWILbWI2Hl5Lq9IvGpKXmk7hmG9p+qj/FH5xxn8ll92x+X6tZz2nwj4Q9P9KmrWI9pb/kQ3/lVjh6R4M5vMsRpHGVbSGc08xYah2cpwYSXb77jbxHou8mOuSd2KXmnb92K1TUZaqZ9RM7OSQ3e6wFzYC+3uAXVaxWNQXvN7c0szoXHFfQwGmppwyIuLseVE43d1IcW3XNsVbTzTCc060o4f4xq6B076d7A6pxMpcwON2lxBHp43K5ccZPzLS/J2j4sbrWrS1k76mch0klsiBiNgB0+StKRSNQZLzedyzXDXHlbp0DqemdCGOeZDnFm4OLQDY3/dC5vhpadykWmI01yqqHSPfI7xPcXO+JNz+K1mdztzHRsnD3HldQQez074hHkXWdGHG5NzvdYXwUvO5a1zTFYr06Nbqqh0kj5XeJ7nPd5d5xJP8StojUaZzO522XSOP6+kpWUcL42xMyDQYwXWc4ucCb77uKxvw9LzuWuPPanaI97WHPJJPqt2La6jtDr5KL6Pc6Hk8psO0QDyxoAAyv12Hks6Yq1tzR3/AHdWtNo1KjRO0DUKOEU8M31bTdrXtD8R9kE9B7lzfh6XnctKZprGtRPtZRva1qg/24D8YR/dcfdKesnNM+EMPxNxxW6ixkdQ9mEZJDY2csFx83b7lbY8VaflZ2tt6632g19bA6mnfGY32ya2MN6G4t9y4rw1K25oaTntyzXUdfixHDWtGhqW1TYYpnMHdbKLtDsgQ8fvC2x8jbr0Ol6c0aZROp2yHFHGtZqTI2VJiIiJcwMjw3IsSd0x460iYr4kzudy1tdoKggICAgpWSiAgICAiCoICAgICAgICAqCAglAQEBUEBAQSgKggICAgICoICAgICClZKICAgICIKggICAgICAgICoICCUBAQFQQEBBKAqCAgICAgKggICAgIKVkogICAgIgqCAgICAgICAgKggIJQEBAVBAQSgICoICAgICAgKggICAgpWSiAgICAiCoICAgICAgICAqCAglAQEBUEBAQSgKggICAgICoICAgICClZKICAgICIKggICAgICAgICoICCUBAQFQQEEoCAqCAgICAgICoICAgIKVkogICAgIgqCAgICAgICAgKggIJQEBAVBAQEEoCoICAgICAqCAgICAgpWSiAgICAiCoICAgICAgICAqCAglAQEBAVBAQSgKggICAgICoICAgICD//Z" width="200">
 
@@ -577,9 +514,7 @@ This four-week hackathon challenges the community to create original GitHub Acti
 
 Visit <a href="https://githubhackathon.com" target="_blank">GitHub Actions Hackathon</a>
 
-<hr>
-
-#### MyGov
+### MyGov
 
 <img src="https://community.makergram.com/assets/uploads/files/1584517574611-mygov15844310141-1536x512.jpg" width="300">
 
@@ -591,26 +526,26 @@ In order to involve the community in the fight against the Virus, we would want 
 
 Register <a href="https://innovate.mygov.in/covid19/" target="_blank">Here</a>
 
-<hr>
-
-#### Omidyar Network Rapid Response Funding for Covid-19
+### Omidyar Network Rapid Response Funding for Covid-19
 
 <img src="https://www.omidyarnetwork.in/wp-content/uploads/2020/03/RRF-blog.jpg" width="300">
 
 Omidyar Network India today announced a call for proposals for rapid response funding to tackle the challenges posed by the Covid-19 situation and the consequent socio-economic impact. We are committing Rs. 7.5 crore ($1 million) to this initiative.
 
 Register <a href="https://www.omidyarnetwork.in/blog/omidyar-network-india-announces-rapid-response-funding-for-covid-19-commits-rs-7-5-crore-us-1-million-towards-solutions-focussed-on-next-half-billion" target="_blank">Here</a>
+
 <hr>
 
-Online-Events
+## Online-Events
 --------
-#### ASAP Webinars
+
+### ASAP Webinars
 
 <!-- <img src="http://skillparkkerala.in/wp-content/uploads/2020/04/ASAP-webinar-5-724x1024.jpg" width="200"> -->
 
 ASAP is Conducting a series of webinars to develop the skills of people in this lock down period effectively. The webinars on different topic will be conducted from Monday to Friday 4 PM to 5 PM, Those who are interested can attend the webinar by visiting following link on the time. No pre – registration required. It is able to enter before half an hour to the scheduled time only. All are welcomed. Please mail us to csp@asapkerala.gov.in if you have any query or suggestions. 
 
-###### Upcoming Webinar
+#### Upcoming Webinar
 
 * **Topic:-** Industry 4.0 implication on employment
 
@@ -618,9 +553,7 @@ ASAP is Conducting a series of webinars to develop the skills of people in this 
 
 <a href="http://skillparkkerala.in/news_and_events/webinars/" target="_blank">Join Webinar ></a>
 
-<hr>
-
-#### TechByHer - Webinar
+### TechByHer - Webinar
 
 <!-- <img src="https://images.typeform.com/images/87f2JWSu8GyU/image/default" width="200"> -->
 
@@ -632,9 +565,7 @@ Tune in to Facebook Developer Circles Kochi Group this **Monday April 6th at 7pm
 
 RSVP Here <a href="bit.ly/techbyherkochi" target="_blank">bit.ly/techbyherkochi</a>
 
-<hr>
-
-#### Webinar on PCB Designing
+### Webinar on PCB Designing
 
 <!-- <img src="https://images.typeform.com/images/87f2JWSu8GyU/image/default" width="200"> -->
 
@@ -647,10 +578,8 @@ Date: April 4, 2020**
 
 Register <a href="https://bit.ly/3dQW0wT" target="_blank">Here</a>
 
-<hr>
 
-
-#### Rustacean Meetup
+### Rustacean Meetup
 
 <img src="https://pbs.twimg.com/card_img/1246032403803455488/vzz8kU-P?format=jpg&name=small" width="400">
 
@@ -668,9 +597,7 @@ Agenda
 Register <a href="https://community.mozilla.org/events/rustacean-meetup/
 " target="_blank">Here</a>
 
-<hr>
-
-#### SPARK AR Online Workshop
+### SPARK AR Online Workshop
 
 <img src="https://images.typeform.com/images/87f2JWSu8GyU/image/default" width="200">
 
@@ -680,9 +607,7 @@ Students/Faculty/Professionals who are passionate and keen to understand the pot
 
 Register <a href="https://svlabs.typeform.com/to/gw1tNj" target="_blank">Here</a>
 
-<hr>
-
-#### Webinar: How to switch for Software Developer role in Product based companies?
+### Webinar: How to switch for Software Developer role in Product based companies?
 
 <img src="https://community.makergram.com/assets/uploads/files/1584960943116-photo_2020-03-23_16-22-32.jpg" width="200">
 
@@ -691,9 +616,8 @@ Mamta Kumari [Co-Founder PrepBytes, Former SDE Amazon, Samsung] will guide you o
 
 
 Register <a href="https://m.facebook.com/story.php?story_fbid=1076336636080255&id=502511680129423" target="_blank">Here</a>
-<hr>
 
-#### Blockchain Webinar | Zubi | Tezos India
+### Blockchain Webinar | Zubi | Tezos India
 
 <!-- <img src="" width="200"> -->
 
@@ -704,10 +628,10 @@ Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYPS2cCWur2Y47Tq0MB0
 
 <hr>
 
-Community-for-Discussion
+## Community-for-Discussion
 --------
 
-#### MakerGram
+### MakerGram
 
 <img src="https://community.makergram.com/assets/uploads/system/site-logo.png?v=1gi0rdoivqv" width="200">
 
@@ -716,9 +640,8 @@ A great place where you can think, brainstorm, share, discuss and transform your
 
 Visit <a href="https://community.makergram.com" target="_blank">MakerGram</a>
 
-<hr>
 
-#### TinkerHub
+### TinkerHub
 
 <img src="http://th.gooseberoid.com/wp-content/uploads/2019/05/TinkerLogo-1.png" width="250">
 
