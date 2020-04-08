@@ -205,7 +205,7 @@ For more deails visit <a href="https://blog.udacity.com/2020/03/one-month-free-o
 
 ### Moz Academy
 
-<img src="https://pbs.twimg.com/card_img/1245017405560098817/KhdLx4pJ?format=jpg&name=small" width="300">
+<img src="https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fgina_moz_com_qfzpqj%2Fpublic%2FFree-training-for-all-Roger-Banner.1584990400647.jpg" width="200">
 
 Moz Academy courses are now available for free! Browse our course list, then use the promo **"wegotthis"** to sign up.
 
