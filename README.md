@@ -8,7 +8,7 @@
 >[*Kerala Startup Mission on behalf of Government of Kerala is calling for innovative ideas and solutions to defend and hunt down the Global Pandemic from the Avengers around us*](https://breakcorona.in/) *Read more*<br><br>
 >[*Get access to Google Cloud training at no cost*](http://skillparkkerala.in/news_and_events/webinars/) *FREE*<br><br>
 >[*Automate the Boring Stuff, the best selling video course on learning Python is free until April 7.*](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) *FREE*<br><br>
->[*Internshala announces free access to its online training programs for the students of Kerala, Jammu & Kashmir, and Ladakh till 31st March, in view of Coronavirus situation.*](https://trainings.internshala.com/fight-coronavirus)<br><br>
+>[*Vue mastery is giving out it's premium courses for free for one week*](https://www.vuemastery.com/free-week/?utm_source=newsletter&utm_medium=email&utm_campaign=stuck_at_home_watch_our_courses_for_free&utm_term=2020-04-07)<br><br>
 >[*Machine Learning Starter Program - Analytics Vidhya*](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) *(Use coupon: LOCKDOWN) to get INR 4999 Rs. Discount)*<br><br>
 >[*Mozilla has announced the creation of a COVID-19 Solutions Fund as part of the Mozilla Open Source Support Program (MOSS).Through this fund, they will provide awards of up to $50,000 USD each to open source technology projects which are responding to the COVID-19 pandemic in some way.*](https://mozilla.fluxx.io/apply/MOSS)<br><br>
 >[*Read How to host a Zoom meeting*](https://www.notion.so/A-Step-by-Step-Guide-Zoom-meeting-ea4c59ae0ce14926a4299e073f0a113f) *(Click here)*
@@ -100,6 +100,20 @@ Visit <a href="https://stories.audible.com/start-listen" target="_blank">Audible
 
 Education
 --------
+
+#### The ultimate learning resource for Vue developers | Vue mastery
+
+<img src="https://www.vuemastery.com/images/vuemastery-white.svg" width="150">
+
+We want you to learn Vue while you might be stuck at home and we know some people around the world can't afford our courses.
+**Monday through Sunday
+April 13, 12:00 AM ET until April 19, 11:59 PM ET**
+*Reserve your spot to get access to all Vue.js courses free.*
+
+
+Click to <a href="https://www.vuemastery.com/free-week/?utm_source=newsletter&utm_medium=email&utm_campaign=stuck_at_home_watch_our_courses_for_free&utm_term=2020-04-07" target="_blank">Claim</a>
+
+<hr>
 
 #### Get access to Google Cloud training at no cost
 
