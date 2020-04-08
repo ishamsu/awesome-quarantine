@@ -101,6 +101,16 @@ Visit <a href="https://stories.audible.com/start-listen" target="_blank">Audible
 Education
 --------
 
+#### Oracle
+
+<img src="https://pbs.twimg.com/profile_images/1171452654112755712/MW0_-kQQ_400x400.jpg" width="100">
+
+Oracle Ramps Up Free Online Learning and Certifications for Oracle Cloud Infrastructure and Oracle Autonomous Database
+
+Visit <a href="https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html?ref=codekeep.io" target="_blank">Oracle</a>
+
+<hr>
+
 #### Red Hat
 
 <img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQGcf3qutnY7VA/articleshare-shrink_800/0?e=1586451600&v=beta&t=CJPJVbHK8JcxcSBYAL1Ymz38KBFn2aS2Slxx6ubrBUg" width="150">
