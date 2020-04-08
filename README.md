@@ -5,8 +5,8 @@
 <br>
 
 > ***Whats new?*** <br>
->[*Kerala Startup Mission on behalf of Government of Kerala is calling for innovative ideas and solutions to defend and hunt down the Global Pandemic from the Avengers around us*](https://breakcorona.in/) *Read here*<br><br>
->[*ASAP Webinar on Industry 4.0 implication on employment by Dr. Sandhya Tarar*](http://skillparkkerala.in/news_and_events/webinars/) *On 06 April 2020 – 4 PM*<br><br>
+>[*Kerala Startup Mission on behalf of Government of Kerala is calling for innovative ideas and solutions to defend and hunt down the Global Pandemic from the Avengers around us*](https://breakcorona.in/) *Read more*<br><br>
+>[*Get access to Google Cloud training at no cost*](http://skillparkkerala.in/news_and_events/webinars/) *FREE*<br><br>
 >[*Automate the Boring Stuff, the best selling video course on learning Python is free until April 7.*](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) *FREE*<br><br>
 >[*Internshala announces free access to its online training programs for the students of Kerala, Jammu & Kashmir, and Ladakh till 31st March, in view of Coronavirus situation.*](https://trainings.internshala.com/fight-coronavirus)<br><br>
 >[*Machine Learning Starter Program - Analytics Vidhya*](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) *(Use coupon: LOCKDOWN) to get INR 4999 Rs. Discount)*<br><br>
@@ -101,6 +101,17 @@ Visit <a href="https://stories.audible.com/start-listen" target="_blank">Audible
 Education
 --------
 
+#### Get access to Google Cloud training at no cost
+
+<img src="https://inthecloud.withgoogle.com/training-discount/static/img/svg-cloud-logo.svg" width="150">
+
+In this time of transition to home working, we want to empower you to build new skills on Cloud technology. Register below to receive access to Google Cloud training at no cost.
+
+
+Click to <a href="https://inthecloud.withgoogle.com/training-discount/register.html?utm_source=google&utm_medium=blog&utm_campaign=FY20-Q1-global-trainingandenablement-operational-other-training_discount&utm_content=athomelearning" target="_blank">Claim</a>
+
+<hr>
+
 #### Progate | Free access
 
 <img src="https://d2aj9sy12tbpym.cloudfront.net/javascripts/dist/assets/symbol_logo-8910427a85fe195bfea5f840b0c671e9.svg" width="50">
@@ -119,7 +130,6 @@ This access includes 14 detailed online lessons of Python, Go, SQL, Command-Line
 Click to <a href="https://www.udemy.com/course/complete-python-bootcamp-expert-course/?couponCode=134938CFC93B377ED09E" target="_blank">Redeem</a>
 
 <hr>
-
 
 #### Complete Python Bootcamp : Go Beginner to Expert in Python 3 | Free
 
