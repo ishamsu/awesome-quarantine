@@ -92,6 +92,14 @@ Visit <a href="https://stories.audible.com/start-listen" target="_blank">Audible
 ## Education
 --------
 
+### NVIDIA Teaching Kits
+
+<img src="https://developer.nvidia.com/sites/all/themes/devzone_base/images/nvidia.png" width="150">
+
+NVIDIA Teaching Kits are complete course solutions for use by educators in a variety of academic disciplines that benefit from GPU-accelerated computing. Co-developed with leading university faculty, Teaching Kits provide full curriculum design coupled with ease-of-use. Educators can bridge academic theory with real-world application to empower next-generation innovators with critical AI skillsets.
+
+Visit <a href="https://developer.nvidia.com/teaching-kits" target="_blank">NVIDIA</a>
+
 ### Greyatom
 
 <img src="https://ik.imagekit.io/gawebprod/static/assets/images/temp/site-images/logo/greyatom-logo.d65fc29b718b.svg" width="150">
