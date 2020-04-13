@@ -5,6 +5,8 @@
 <br>
 
 > ***Whats new?*** <br>
+>[*Kerala Startup Mission is coming up with a Webinar series ‘Inspire2Innovate’
+Innovation, Technology and Entrepreneurship for the student champions. *](https://sites.google.com/startupmission.in/iedc/iedc-webinar-series) *(Read more)*<br><br>
 >[*Kerala Startup Mission on behalf of Government of Kerala is calling for innovative ideas and solutions to defend and hunt down the Global Pandemic from the Avengers around us*](https://breakcorona.in/) *(Read more)*<br><br>
 >[*Get access to Google Cloud training at no cost*](http://skillparkkerala.in/news_and_events/webinars/) *- FREE*<br><br>
 >[*Automate the Boring Stuff, the best selling video course on learning Python is free until April 7*](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) *- FREE*<br><br>
@@ -547,6 +549,26 @@ Register <a href="https://www.omidyarnetwork.in/blog/omidyar-network-india-annou
 ## Online-Events
 --------
 
+### IEDC Webinar Series - Inspire2Innovate
+
+<!-- <img src="https://ibb.co/s1zmP86" width="300"> -->
+
+Kerala Startup Mission is set to organise webinar series for the student champions in three major areas – Innovation, Technology, and Entrepreneurship.
+
+Are you someone looking ahead to be a successful entrepreneur in your life? Do you wish to learn from people who had travelled the road that no one had travelled? Take this opportunity to hear the amazing stories of some of the most inspirational people and to be inspired to get started with building your dreams. Inspire2Innovate is a 20 days webinar series starting from the 7th of April 2020, bringing in 20+ inspiring minds to you all. The talks will be centred around Innovation, Technology & Entrepreneurship. 
+
+For more information : <a href="https://sites.google.com/startupmission.in/iedc/iedc-webinar-series" target=" blank">Click Here</a>
+
+#### Upcoming Webinar
+
+Topic:  Leveraging Technology for Financial activities 
+
+Date: 13 April 2020 | Time: 05:00 PM IST | Duration: 40 minutes
+
+<a href="https://zoom.us/webinar/register/WN_3fRUqSd6RBi1HrYmkDKggA" target="_blank">Register Now ></a>
+
+<hr>
+
 ### ASAP Webinars
 
 <!-- <img src="http://skillparkkerala.in/wp-content/uploads/2020/04/ASAP-webinar-5-724x1024.jpg" width="200"> -->
@@ -555,11 +577,13 @@ ASAP is Conducting a series of webinars to develop the skills of people in this 
 
 #### Upcoming Webinar
 
-* **Topic:-** Industry 4.0 implication on employment
+~~**Topic:-** Industry 4.0 implication on employment~~
 
-**Date: 06 April 2020 Time:4 PM**
+~~**Date: 06 April 2020 Time:4 PM**~~
 
 <a href="http://skillparkkerala.in/news_and_events/webinars/" target="_blank">Join Webinar ></a>
+
+<hr>
 
 ### ~~TechByHer - Webinar~~
 
