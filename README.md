@@ -509,20 +509,22 @@ Kerala Police Cyberdome is conducting Online Hackathon “CODE-VID-19” to find
 
 Register <a href="https://docs.google.com/forms/d/e/1FAIpQLScxfkQ6RkqrkZBEcoP6vhMifOTbtQwYXPArEHWiqf8ponq4AA/viewform?usp=send_form" target="_blank">Here</a>
 
-### ~~GitHub Actions hackathon~~
 
-<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPDg4NDw8NEBAOEBUQDhARDxAQEBUQFxEWFxURFhYYHSkhGBoxHRUVIT0hJSkrLi4xGCA1ODMsNyguOi0BCgoKDg0OGxAQGy8lHyMrMC0tLSstKy0tLzUrKy8tLy0rLS0tLy0rLTAvKysvLS0tLS0rLS0tLS0tLS0vLS0tLv/AABEIAKgBKwMBEQACEQEDEQH/xAAbAAEAAQUBAAAAAAAAAAAAAAAAAQIEBQYHA//EAEMQAAEDAwIDBQQGCAILAAAAAAEAAgMEERIFIQYTMQciMkFRFGFxgRUjUpGxwSQzNGKhsrPRRJMXJUJkcnN0g6LD8f/EABoBAQEBAQEBAQAAAAAAAAAAAAABAwIEBQb/xAA3EQEAAgIABAIHBwMDBQAAAAAAAQIDEQQSITFBURNhcYGRscEFFCIyodHwUpLhQqPxM1NissL/2gAMAwEAAhEDEQA/AOMr6oICAgICAqggICAgICAgICoICAglAQFQQEBBKAqCAgICAgKggICAgIKVkogICAgICqCAgICAgICAgKggIJQEBAVBAQSgICoICAgICAgKggICAgpWSiAgICAiCoICAgICAgICAqCCUBAQEBUEBAQSgKggICAgICAqCAgICClZKICAgICIKggICAgICAgICoICCUBAQEBUEBBKAqCAgICAgICoICAgIKVkogICAgIgqCAgICAgICAgKggIJQEBAVBAQEBBKoICAgICAgKggICAgpWSiAgICAgKoICAgICAgICAqCCUEIJQEBUEBAQSgKggICAgICAqCAgICClZKICAgICIKggICAgICAgICoICCUBAQFQQEEoCAqCAgICAgKggICAgIKVkogICAgICqCAgICAgrhiLyGtBJcQAACSSTYAAdSpM6WI22Cv4J1CngNTNTOZE0AucZIiQCQBdodfqR5LzU4zDe3LW3X3tbYL1jcwxNZpU8L3RywyxvaAXNcwghpFwT7ltXLS0brLiaTE6mHs/QqlopiYXD2z9l3b9Zu0bb7bub1t1UjNSd9fy9/Uvo7dOnfsta6hkglfDKwskjOL2mxINr2228wu6XrevNXs5tWYnUvV2kzinbVmN3IdJymyXFjJYnG179Gny8lIy15+TfXuvJOubwWjGEm26725XusaPPRymCojMcgaHY3a7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CFzakWjUrW0xO4e+v8R1Ve5jqqUymMEMJDRYEgkbD3BSmOtOzu+W14iJ8PKIj5PThvimr00yOpJBGZQ0SXjjfcNvj4gbeI/erfHW/dxFph7QcZVsdZJXtmtUSsLHyYMN2ktJFrWHgb09EvSLRyz2K2ms7hZa7rtRXSCWpkMj2twDiGju3JtsPepTHWkah1kyWvrfh6tLnhriys03meySiPnY8y8ccl8b28QNvEUvjrfu5i0wiLiqsZVvr2zvbUSXzeABlcWILbWI2Hl5Lq9IvGpKXmk7hmG9p+qj/FH5xxn8ll92x+X6tZz2nwj4Q9P9KmrWI9pb/kQ3/lVjh6R4M5vMsRpHGVbSGc08xYah2cpwYSXb77jbxHou8mOuSd2KXmnb92K1TUZaqZ9RM7OSQ3e6wFzYC+3uAXVaxWNQXvN7c0szoXHFfQwGmppwyIuLseVE43d1IcW3XNsVbTzTCc060o4f4xq6B076d7A6pxMpcwON2lxBHp43K5ccZPzLS/J2j4sbrWrS1k76mch0klsiBiNgB0+StKRSNQZLzedyzXDXHlbp0DqemdCGOeZDnFm4OLQDY3/dC5vhpadykWmI01yqqHSPfI7xPcXO+JNz+K1mdztzHRsnD3HldQQez074hHkXWdGHG5NzvdYXwUvO5a1zTFYr06Nbqqh0kj5XeJ7nPd5d5xJP8StojUaZzO522XSOP6+kpWUcL42xMyDQYwXWc4ucCb77uKxvw9LzuWuPPanaI97WHPJJPqt2La6jtDr5KL6Pc6Hk8psO0QDyxoAAyv12Hks6Yq1tzR3/AHdWtNo1KjRO0DUKOEU8M31bTdrXtD8R9kE9B7lzfh6XnctKZprGtRPtZRva1qg/24D8YR/dcfdKesnNM+EMPxNxxW6ixkdQ9mEZJDY2csFx83b7lbY8VaflZ2tt6632g19bA6mnfGY32ya2MN6G4t9y4rw1K25oaTntyzXUdfixHDWtGhqW1TYYpnMHdbKLtDsgQ8fvC2x8jbr0Ol6c0aZROp2yHFHGtZqTI2VJiIiJcwMjw3IsSd0x460iYr4kzudy1tdoKggICAgpWSiAgICAiCoICAgICAgICAqCAglAQEBUEBAQSgKggICAgICoICAgICClZKICAgICIKggICAgICAgICoICCUBAQFQQEBBKAqCAgICAgKggICAgIKVkogICAgIgqCAgICAgICAgKggIJQEBAVBAQSgICoICAgICAgKggICAgpWSiAgICAiCoICAgICAgICAqCAglAQEBUEBAQSgKggICAgICoICAgICClZKICAgICIKggICAgICAgICoICCUBAQFQQEEoCAqCAgICAgICoICAgIKVkogICAgIgqCAgICAgICAgKggIJQEBAVBAQEEoCoICAgICAqCAgICAgpWSiAgICAiCoICAgICAgICAqCAglAQEBAVBAQSgKggICAgICoICAgICD//Z" width="200">
 
-~~This four-week hackathon challenges the community to create original GitHub Actions. Actions connect all of the tools in your workflow: You can solve problems, build containers, deploy to any cloud, and more.~~
+<!-- ### ~~GitHub Actions hackathon~~ -->
 
-~~**How it works:**~~
+<!-- <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPDg4NDw8NEBAOEBUQDhARDxAQEBUQFxEWFxURFhYYHSkhGBoxHRUVIT0hJSkrLi4xGCA1ODMsNyguOi0BCgoKDg0OGxAQGy8lHyMrMC0tLSstKy0tLzUrKy8tLy0rLS0tLy0rLTAvKysvLS0tLS0rLS0tLS0tLS0vLS0tLv/AABEIAKgBKwMBEQACEQEDEQH/xAAbAAEAAQUBAAAAAAAAAAAAAAAAAQIEBQYHA//EAEMQAAEDAwIDBQQGCAILAAAAAAEAAgMEERIFIQYTMQciMkFRFGFxgRUjUpGxwSQzNGKhsrPRRJMXJUJkcnN0g6LD8f/EABoBAQEBAQEBAQAAAAAAAAAAAAABAwIEBQb/xAA3EQEAAgIABAIHBwMDBQAAAAAAAQIDEQQSITFBURNhcYGRscEFFCIyodHwUpLhQqPxM1NissL/2gAMAwEAAhEDEQA/AOMr6oICAgICAqggICAgICAgICoICAglAQFQQEBBKAqCAgICAgKggICAgIKVkogICAgICqCAgICAgICAgKggIJQEBAVBAQSgICoICAgICAgKggICAgpWSiAgICAiCoICAgICAgICAqCCUBAQEBUEBAQSgKggICAgICAqCAgICClZKICAgICIKggICAgICAgICoICCUBAQEBUEBBKAqCAgICAgICoICAgIKVkogICAgIgqCAgICAgICAgKggIJQEBAVBAQEBBKoICAgICAgKggICAgpWSiAgICAgKoICAgICAgICAqCCUEIJQEBUEBAQSgKggICAgICAqCAgICClZKICAgICIKggICAgICAgICoICCUBAQFQQEEoCAqCAgICAgKggICAgIKVkogICAgICqCAgICAgrhiLyGtBJcQAACSSTYAAdSpM6WI22Cv4J1CngNTNTOZE0AucZIiQCQBdodfqR5LzU4zDe3LW3X3tbYL1jcwxNZpU8L3RywyxvaAXNcwghpFwT7ltXLS0brLiaTE6mHs/QqlopiYXD2z9l3b9Zu0bb7bub1t1UjNSd9fy9/Uvo7dOnfsta6hkglfDKwskjOL2mxINr2228wu6XrevNXs5tWYnUvV2kzinbVmN3IdJymyXFjJYnG179Gny8lIy15+TfXuvJOubwWjGEm26725XusaPPRymCojMcgaHY3a7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CFzakWjUrW0xO4e+v8R1Ve5jqqUymMEMJDRYEgkbD3BSmOtOzu+W14iJ8PKIj5PThvimr00yOpJBGZQ0SXjjfcNvj4gbeI/erfHW/dxFph7QcZVsdZJXtmtUSsLHyYMN2ktJFrWHgb09EvSLRyz2K2ms7hZa7rtRXSCWpkMj2twDiGju3JtsPepTHWkah1kyWvrfh6tLnhriys03meySiPnY8y8ccl8b28QNvEUvjrfu5i0wiLiqsZVvr2zvbUSXzeABlcWILbWI2Hl5Lq9IvGpKXmk7hmG9p+qj/FH5xxn8ll92x+X6tZz2nwj4Q9P9KmrWI9pb/kQ3/lVjh6R4M5vMsRpHGVbSGc08xYah2cpwYSXb77jbxHou8mOuSd2KXmnb92K1TUZaqZ9RM7OSQ3e6wFzYC+3uAXVaxWNQXvN7c0szoXHFfQwGmppwyIuLseVE43d1IcW3XNsVbTzTCc060o4f4xq6B076d7A6pxMpcwON2lxBHp43K5ccZPzLS/J2j4sbrWrS1k76mch0klsiBiNgB0+StKRSNQZLzedyzXDXHlbp0DqemdCGOeZDnFm4OLQDY3/dC5vhpadykWmI01yqqHSPfI7xPcXO+JNz+K1mdztzHRsnD3HldQQez074hHkXWdGHG5NzvdYXwUvO5a1zTFYr06Nbqqh0kj5XeJ7nPd5d5xJP8StojUaZzO522XSOP6+kpWUcL42xMyDQYwXWc4ucCb77uKxvw9LzuWuPPanaI97WHPJJPqt2La6jtDr5KL6Pc6Hk8psO0QDyxoAAyv12Hks6Yq1tzR3/AHdWtNo1KjRO0DUKOEU8M31bTdrXtD8R9kE9B7lzfh6XnctKZprGtRPtZRva1qg/24D8YR/dcfdKesnNM+EMPxNxxW6ixkdQ9mEZJDY2csFx83b7lbY8VaflZ2tt6632g19bA6mnfGY32ya2MN6G4t9y4rw1K25oaTntyzXUdfixHDWtGhqW1TYYpnMHdbKLtDsgQ8fvC2x8jbr0Ol6c0aZROp2yHFHGtZqTI2VJiIiJcwMjw3IsSd0x460iYr4kzudy1tdoKggICAgpWSiAgICAiCoICAgICAgICAqCAglAQEBUEBAQSgKggICAgICoICAgICClZKICAgICIKggICAgICAgICoICCUBAQFQQEBBKAqCAgICAgKggICAgIKVkogICAgIgqCAgICAgICAgKggIJQEBAVBAQSgICoICAgICAgKggICAgpWSiAgICAiCoICAgICAgICAqCAglAQEBUEBAQSgKggICAgICoICAgICClZKICAgICIKggICAgICAgICoICCUBAQFQQEEoCAqCAgICAgICoICAgIKVkogICAgIgqCAgICAgICAgKggIJQEBAVBAQEEoCoICAgICAqCAgICAgpWSiAgICAiCoICAgICAgICAqCAglAQEBAVBAQSgKggICAgICoICAgICD//Z" width="200"> -->
 
-* ~~Log in to GitHub to start tinkering around with GitHub Actions (you can also check out this tutorial).~~
+<!-- ~~This four-week hackathon challenges the community to create original GitHub Actions. Actions connect all of the tools in your workflow: You can solve problems, build containers, deploy to any cloud, and more.~~ -->
+
+<!-- ~~**How it works:**~~ -->
+
+<!-- * ~~Log in to GitHub to start tinkering around with GitHub Actions (you can also check out this tutorial).~~
 * ~~At 12:01 am PT on Thursday, **March 5**, start building Actions for the Hackathon!~~
 * ~~Submit your Actions by 11:59 pm PT on Tuesday, **March 31**.
-(Bonus: The first 1,000 valid submissions will receive free GitHub swag!)~~
+(Bonus: The first 1,000 valid submissions will receive free GitHub swag!)~~ -->
 
-~~Visit <a href="https://githubhackathon.com" target="_blank">GitHub Actions Hackathon</a>~~
+<!-- ~~Visit <a href="https://githubhackathon.com" target="_blank">GitHub Actions Hackathon</a>~~ -->
 
 ### MyGov
 
@@ -575,90 +577,89 @@ Date: 13 April 2020 | Time: 05:00 PM IST | Duration: 40 minutes
 
 ASAP is Conducting a series of webinars to develop the skills of people in this lock down period effectively. The webinars on different topic will be conducted from Monday to Friday 4 PM to 5 PM, Those who are interested can attend the webinar by visiting following link on the time. No pre – registration required. It is able to enter before half an hour to the scheduled time only. All are welcomed. Please mail us to csp@asapkerala.gov.in if you have any query or suggestions. 
 
-#### Upcoming Webinar
+<!-- #### Upcoming Webinar
 
 ~~**Topic:-** Industry 4.0 implication on employment~~
 
-~~**Date: 06 April 2020 Time:4 PM**~~
+~~**Date: 06 April 2020 Time:4 PM**~~ -->
 
 <a href="http://skillparkkerala.in/news_and_events/webinars/" target="_blank">Join Webinar ></a>
 
 <hr>
 
-### ~~TechByHer - Webinar~~
+<!-- ### ~~TechByHer - Webinar~~
 
 <!-- <img src="https://images.typeform.com/images/87f2JWSu8GyU/image/default" width="200"> -->
 
-~~Barriers and glass ceilings are meant to be broken, you just have to put a little effort into it.  Gear up to bend the status Quo as DevC Kochi unveils a brand new series of #TechByHer webinar led by inspiring women who have broken down walls and shattered norms to establish themselves in the world of technology.~~
+<!-- ~~Barriers and glass ceilings are meant to be broken, you just have to put a little effort into it.  Gear up to bend the status Quo as DevC Kochi unveils a brand new series of #TechByHer webinar led by inspiring women who have broken down walls and shattered norms to establish themselves in the world of technology.~~ -->
 
-~~Joining us would be Fausya Amalh , An ML Engineer working now as a Product Development Analyst at Tangerine ; And  Sangeeta Gupta, a GHCI Scholar and Facebook DevC Pune Lead - sharing their inspiring stories and learnings with us.~~
+<!-- ~~Joining us would be Fausya Amalh , An ML Engineer working now as a Product Development Analyst at Tangerine ; And  Sangeeta Gupta, a GHCI Scholar and Facebook DevC Pune Lead - sharing their inspiring stories and learnings with us.~~ -->
 
-~~Tune in to Facebook Developer Circles Kochi Group this **Monday April 6th at 7pm** to hear how they found their own path and take home their learnings.~~
+<!-- ~~Tune in to Facebook Developer Circles Kochi Group this **Monday April 6th at 7pm** to hear how they found their own path and take home their learnings.~~ -->
 
-~~RSVP Here <a href="bit.ly/techbyherkochi" target="_blank">bit.ly/techbyherkochi</a>~~
+<!-- ~~RSVP Here <a href="bit.ly/techbyherkochi" target="_blank">bit.ly/techbyherkochi</a>~~ -->
 
-### ~~Webinar on PCB Designing~~
+<!-- ### ~~Webinar on PCB Designing~~ -->
 
 <!-- <img src="https://images.typeform.com/images/87f2JWSu8GyU/image/default" width="200"> -->
 
-~~Hey Guys!
-Got bored by simply sitting during the quarantine??  We have something that can help you kill your boredom and help you learn:
-So, grab a cup of coffee and sit at your favourite spot, spend two hours with us and be the part of a Webinar on PCB designing conducted by Amrita Vishwa Vidyapeetham's chapter of Cisco thingQbator!~~
+<!-- ~~Hey Guys! -->
+<!-- Got bored by simply sitting during the quarantine??  We have something that can help you kill your boredom and help you learn:
+So, grab a cup of coffee and sit at your favourite spot, spend two hours with us and be the part of a Webinar on PCB designing conducted by Amrita Vishwa Vidyapeetham's chapter of Cisco thingQbator!~~ -->
 
-~~**Time : 3 PM to 5 PM
-Date: April 4, 2020**~~
+<!-- ~~**Time : 3 PM to 5 PM -->
+<!-- Date: April 4, 2020**~~ -->
 
-~~Register <a href="https://bit.ly/3dQW0wT" target="_blank">Here</a>~~
+<!-- ~~Register <a href="https://bit.ly/3dQW0wT" target="_blank">Here</a>~~ -->
 
 
-### ~~Rustacean Meetup~~
+<!-- ### ~~Rustacean Meetup~~ -->
 
-<img src="https://pbs.twimg.com/card_img/1246032403803455488/vzz8kU-P?format=jpg&name=small" width="400">
+<!-- <img src="https://pbs.twimg.com/card_img/1246032403803455488/vzz8kU-P?format=jpg&name=small" width="400"> -->
 
-~~Join us this Sunday to learn how you can use rust-lang to speed up your python code!~~
+<!-- ~~Join us this Sunday to learn how you can use rust-lang to speed up your python code!~~ -->
 
-~~We will be discussing a lot, but most specifically about how PyO3 can help you integrate rust easily into your Python code.~~
+<!-- ~~We will be discussing a lot, but most specifically about how PyO3 can help you integrate rust easily into your Python code.~~ -->
 
-~~**Time: 4:30PM, 5th April 2020**~~
+<!-- ~~**Time: 4:30PM, 5th April 2020**~~ -->
 
-~~Agenda
-• Introduction
+<!-- ~~Agenda -->
+<!-- ~• Introduction
 • Live coding session
-• Q&A~~
+• Q&A~ -->
 
-~~Register <a href="https://community.mozilla.org/events/rustacean-meetup/
-" target="_blank">Here</a>~~
+<!-- ~~Register <a href="https://community.mozilla.org/events/rustacean-meetup/ -->
+<!-- " target="_blank">Here</a>~~ -->
 
-### ~~SPARK AR Online Workshop~~
+<!-- ### ~~SPARK AR Online Workshop~~ -->
 
-<img src="https://images.typeform.com/images/87f2JWSu8GyU/image/default" width="200">
+<!-- <img src="https://images.typeform.com/images/87f2JWSu8GyU/image/default" width="200"> -->
 
-~~*Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***.~~
+<!-- ~~*Facebook School of Innovation* is conducting a *SPARK AR Online Workshop on **28th March 7-9PM IST***.~~ -->
 
-~~Students/Faculty/Professionals who are passionate and keen to understand the potential of AR and are interested in working with SPARK AR can apply.~~
+<!-- ~~Students/Faculty/Professionals who are passionate and keen to understand the potential of AR and are interested in working with SPARK AR can apply.~~ -->
 
-~~Register <a href="https://svlabs.typeform.com/to/gw1tNj" target="_blank">Here</a>~~
+<!-- ~~Register <a href="https://svlabs.typeform.com/to/gw1tNj" target="_blank">Here</a>~~ -->
 
-### ~~Webinar: How to switch for Software Developer role in Product based companies?~~
+<!-- ### ~~Webinar: How to switch for Software Developer role in Product based companies?~~ -->
 
-<img src="https://community.makergram.com/assets/uploads/files/1584960943116-photo_2020-03-23_16-22-32.jpg" width="200">
+<!-- <img src="https://community.makergram.com/assets/uploads/files/1584960943116-photo_2020-03-23_16-22-32.jpg" width="200"> -->
 
-~~Mamta Kumari [Co-Founder PrepBytes, Former SDE Amazon, Samsung] will guide you on how to prepare for coding interviews & SWITCH to Product companies as Software Developer.~~
-~~**Date & Time: 28th March 2020, 09:00PM IST**~~
+<!-- ~~Mamta Kumari [Co-Founder PrepBytes, Former SDE Amazon, Samsung] will guide you on how to prepare for coding interviews & SWITCH to Product companies as Software Developer.~~ -->
+<!-- ~~**Date & Time: 28th March 2020, 09:00PM IST**~~ -->
 
 
-~~Register <a href="https://m.facebook.com/story.php?story_fbid=1076336636080255&id=502511680129423" target="_blank">Here</a>~~
+<!-- ~~Register <a href="https://m.facebook.com/story.php?story_fbid=1076336636080255&id=502511680129423" target="_blank">Here</a>~~ -->
 
-### ~~Blockchain Webinar | Zubi | Tezos India~~
+<!-- ### ~~Blockchain Webinar | Zubi | Tezos India~~ -->
 
 <!-- <img src="" width="200"> -->
 
-~~The webinar is organized in collaboration with Tezos India Foundation and is scheduled for **27th March 2020, at 8.00 pm IST.** Anyone can register for it, free of cost.~~
+<!-- ~~The webinar is organized in collaboration with Tezos India Foundation and is scheduled for **27th March 2020, at 8.00 pm IST.** Anyone can register for it, free of cost.~~ -->
 
 
-~~Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYPS2cCWur2Y47Tq0MB0O8-GSzM4mWj_w69lRkvC-Ygj-RyQ/viewform" target="_blank">Here</a>~~
+<!-- ~~Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYPS2cCWur2Y47Tq0MB0O8-GSzM4mWj_w69lRkvC-Ygj-RyQ/viewform" target="_blank">Here</a>~~ -->
 
-<hr>
 
 ## Community-for-Discussion
 --------
